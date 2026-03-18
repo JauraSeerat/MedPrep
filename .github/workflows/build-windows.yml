@@ -1,4 +1,4 @@
-name: Build Windows EXE (Onefile)
+name: Build Desktop (Windows + macOS)
 
 on:
   push:
@@ -6,8 +6,12 @@ on:
   workflow_dispatch:
 
 jobs:
-  build-windows:
-    runs-on: windows-latest
+  build-desktop:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, macos-latest]
 
     steps:
       - name: Checkout code
@@ -25,14 +29,34 @@ jobs:
           pip install -r requirements.txt
           pip install pyinstaller
 
-      - name: Build EXE with PyInstaller (onefile)
+      - name: Build with PyInstaller (onefile)
+        shell: bash
         run: |
-          pyinstaller --noconfirm --onefile --windowed --name MedPrepAI app\main.py --add-data "data\knowledge_bases;data\knowledge_bases" \
-            --hidden-import sounddevice --hidden-import soundfile --hidden-import cv2 --hidden-import faster_whisper --hidden-import sentence_transformers
+          if [[ "$RUNNER_OS" == "Windows" ]]; then
+            sep=";"
+          else
+            sep=":"
+          fi
+          pyinstaller --noconfirm --onefile --windowed --name MedPrepAI app/main.py \
+            --add-data "data/knowledge_bases${sep}data/knowledge_bases" \
+            --hidden-import sounddevice \
+            --hidden-import soundfile \
+            --hidden-import cv2 \
+            --hidden-import faster_whisper \
+            --hidden-import sentence_transformers
 
-      - name: Upload EXE as artifact
+      - name: Upload artifact (Windows)
+        if: runner.os == 'Windows'
         uses: actions/upload-artifact@v4
         with:
           name: MedPrepAI-Windows
           path: dist/MedPrepAI.exe
+          retention-days: 30
+
+      - name: Upload artifact (macOS)
+        if: runner.os == 'macOS'
+        uses: actions/upload-artifact@v4
+        with:
+          name: MedPrepAI-macOS
+          path: dist/MedPrepAI
           retention-days: 30
