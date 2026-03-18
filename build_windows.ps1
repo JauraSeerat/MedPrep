@@ -12,7 +12,7 @@ pip install -r requirements.txt
 pip install pyinstaller
 
 Write-Host "[4/5] Building app"
-pyinstaller --noconfirm --windowed --name MedPrepAI app\main.py
+pyinstaller --noconfirm --windowed --name MedPrepAI run_app.py
 
 Write-Host "[5/5] Done"
 Write-Host "App is in dist\MedPrepAI\MedPrepAI.exe"

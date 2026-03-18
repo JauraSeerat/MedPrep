@@ -37,7 +37,7 @@ jobs:
           else
             sep=":"
           fi
-          pyinstaller --noconfirm --onefile --windowed --name MedPrepAI app/main.py \
+          pyinstaller --noconfirm --onefile --windowed --name MedPrepAI run_app.py \
             --add-data "data/knowledge_bases${sep}data/knowledge_bases" \
             --hidden-import sounddevice \
             --hidden-import soundfile \

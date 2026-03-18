@@ -3,7 +3,7 @@
 from pathlib import Path
 
 project_root = Path(__file__).resolve().parent
-app_entry = project_root / "app" / "main.py"
+app_entry = project_root / "run_app.py"
 
 # Include knowledge base samples; avoid bundling local interview recordings.
 datas = [
