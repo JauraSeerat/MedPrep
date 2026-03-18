@@ -1,0 +1,1376 @@
+{
+  "name": "Mock Oral Exam 1",
+  "questions_pdf": "/Users/seeratjaura/Downloads/Mock Oral Exams I.pdf",
+  "answers_pdf": "/Users/seeratjaura/Downloads/Old ABA Exams - Answers and Study Guide.pdf",
+  "mappings": [
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 1,
+      "question_text": "Induction: Would you induce with thiopental? Why/Why not? Propofol? Your choice? Why? The surgeon requests",
+      "answer_text": "Awake, cooperative, full reversal of NMB, TOFratio>0.9, VC>10ml/kg, TV>5ml/kg,PaO2>60, PaCO<50, SpO2>90%on50%FiO2, pH>7.30, normothermic. Wouldnot extubatethispatient giventhehypercarbiaandacidemia. Must alsoconsider theppoFEV1%; if >40%, canconsider attemptinganextubationintheOR, but if <30%,thereisahigher riskof respiratorycomplicationsandtheneedfor reintubation, soconsider deferringextubationuntil intheICU.\nWhenthinkingof preoperativeassessment of pulmonaryfunction, therearethreecomponents:1. Respiratorymechanics(FEV1) - i.e. gettingoxygen2. Lungparenchymal function(DLCO) - i.e. exchangingoxygen3. Cardiopulmonaryreserve(VO2max\n) - i.e. deliveringoxygen\nRespiratoryMechanicsOf all thespirometricexamswhichcorrelatewithpulmonarycomplications(FVC, MVV,RV/TLC, FEV1%, ppoFEV1%), ppoFEV1(predictedpostoperativeFEV1) isthemostpredictiveof pulmonarycomplications.\nppoFEV1%=preoperativeFEV1%x(1\u2013%functional lungtissueremoved/100)(essentially, ppOFEV1%=preoperativeFEV1%xpercentageof remaininglungleftover)\nppoFEV1%>40%islow-riskfor respiratorycomplications, andppoFEV1%<30%ishighrisk\nIf theppoFEV1%<40%, get aV/Qscantodeterminethecontributionof thelungthat isabout toberesected, andalsoget aTTE(highriskof RVfailure)\nLungparenchymal functionPaO2<60mmHg, PaCO2>45mmHg, andppoDLCO<40%indicatehighriskforrespiratorycomplications\nCardiopulmonaryreserveVO2max\n>15-20ml/kg/minindicateslowriskfor respiratorycomplications,VO2max\n<15ml/kg/minindicateshighrisk",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 2,
+      "question_text": "Anesthetic Selection: Is nitrous oxide-opioid anesthesia appropriate? Why/why not? Your choice? Why? Would",
+      "answer_text": "Thisbloodgasshowshypercarbiaandhypoxemiawithacidemia. PaO2/FiO2ratio(65/0.5) =130, whichisintheARDSterritory. Inanycase, aPaO265onFiO2of 50%isnot somethingthat shouldbeextubatedon. KeeptheDLTif challengingairwayand/orconcernfor airwayedemapostoperativelywhereyoucouldlosetheairwaywhileexchangingthetube. Switchtoasinglelumentubeif easyairway, noairwayedema,easier for ICUstaff toknowhowtouseandlessconfusionfromICUstaff, easier to\nperformabronchintheICU, smaller tubediameter that wouldcauselesstrachealcapillaryischemia(downstreameffects: stenosis, fistula).3) Thoracicepidural decreasessplinting(leadingtoatelectasisandpneumonia), systemicopioidsideeffects, DVT/PEs. I wouldinfusebupivacaine5mg/hr andhydromorphone0.1mg/hr viatheepidural catheter.4) ThisisaSTEMI: Call thecathlab, morphine(2mgq5m), 100%fio2, nitroglycerin,aspirin325mg, loadingdoseof aP2Y12\nblocker likeclopidogrel 300mg, betablocker(unlessincardiogenicshock, HF, heart block, or bradycardic), statin(e.g., atorvastatin80mg). Thirtyminuteslater, thispatient nowsoundslikeheisincardiogenicshock(canconfirmdiagnosiswithbedsideTTE). Tx: giveASA325, heparingtt, AVOIDBETA-BLOCKERS(2/2negativeinotropiceffects), pressorsandinotropes(e.g.,norepinephrine, dobutamine), placeaPAcatheter, intubatetooptimizeoxygenationandtocorrect hypoxemia/acidosis(andalso2/2cardiogenicpulmonaryedemathat maybedevelopinginthispatient withcardiogenicshock), call cathlab, consider placinganIABP(noevidencetosuggest whether it\u2019sbetter toplacetheIABPbeforeor after cathlab).5) Most likelyanulnar neuropathyfrompositioning. Thistypeof injuryusaullyresolvesonitsownintehorder of weekstomonths. Refer thepatient toaneurologist andinformthesurgical team.6) Prehepatic(hemolysis, resorptionof hematoma), intrahepatic(acuteliver injury,metabolismof halothane, ), posthepatic(\nAdditional topics1) If epidural insitu, wouldloadtheepidural. If noepidural insitu, wouldensurethereisarecent platelet level that wasnormal andthat therewasnosignificant recent downwardstrend, andif platelet level wasindeednormal, I\u2019dput inasingleshot spinal. If plateletswereabnormal or if thiswasacategory3tracinginawomanwithanotherwisereassuringairway, I wouldinduceGAwhileensuringthat difficult airwayequipment wasreadilyavailableintheroom. If thepatient hadachallengingairway, I wouldconsiderattemptingaspinal whilehelperspreparedequipment/medications/topicalizationfor anawakeintubation.2) DDxincludescardiactamponade, PE, acuteCHF, acutesevereMR, coronaryarterygraft stenosis/mis-suture. Evaluationwouldinclude12-leadEKG, bedsideTTE(subcostal 4chamber view), quickphysical exam(assessfor JVD, calf tenderness/DVT).If bedsideneedlepericardiocentesiswasneeded, trydoingthiswithlocal anesthesia. IfthiscaseneedstogototheORfor mediastinal exploration, I wouldinducewithketamineor aninhalational (sevoflurane) inductionbecausei wouldwant tomaintainspontaneousventilation, aspositivepressureventilationwill leadtoaseveredropinpreloadandcardiovascular collapse. I wouldwant tokeeptheheart fast andfull (unabletoincreaseSVsoyou\u2019rereliant onincreasedHRtomaintainCO; reliant onadequatepreloadtokeeptheheart full).3) Ensureaccuratetemperaturereading, increaseambient roomtemperature, usewarmedfluids. Hypothermiacanaffect coagulationbyleadingtoimpairedplatelet function. I\nwouldnot extubatethepatient if theywerehypothermic, ashypothermiacouldleadtodelayedawakeningandleadtoimpaired/delayedmetabolismof anestheticdrugs.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 3,
+      "question_text": "Intra-operative Hypoxia: After 20 minutes of one-lung ventilation, Sp02 decreased from 99% to 90%. Your",
+      "answer_text": "HypothermiaHypothermia: shivering(increasedO2consumption), impairedwoundhealing, increasedinfections, delayedemergence. Adequatetempis35.5C. I wouldexplainthissituationtothefamily, apologize, offer treatment options.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 4,
+      "question_text": "Massive Blood Loss: The surgeon loses control of the pulmonary vein and the patient loses 1200 ml blood in two",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 5,
+      "question_text": "Extubation Criteria: How will you decide suitability for extubation? Rationale. How does criteria for this patient differ",
+      "answer_text": "DDxfor Na125: SIADHvscerebral salt wasting. Mechanismof SIADHisanincreasedreleaseinADHfromneurologicinsult. Differentiatebetweenthetwobylookingatvolumestatus: SIADHtendstobeeuvolemic/slightlyhypervolemicwhilecerebral saltwastingishypovolemic; bothconditionshavehighurinesodiumcontent, inappropriatelyhighurineosmolality. Txfor SIADHisusuallyfluidrestriction, but inacaseof SIADH2/2vasospasm, thetreatment isactuallyhypertonicsaline, asfluidrestrictionmayincreasetheriskof vasospasm-relatedischemicinjury.6) I wouldcall for help, administer 100%Fio2bymask, elevateHOB, insert oral airwayornasal trumpet if i thinkthepatient isobstructing, call for difficult airwayequipment andsurgical airwayteam, call for inductionagents. Withacyanoticpatient, wouldmovetowardssecuringtheairwaywithre-intubationwhilealsohavingthesurgical teamavailableat thebedside.\n\u25cf SSEP, MEP, EEG:neurovascular(IRorcrani),supratentorial\u25cf SSEP, MEP:skullbase,brainstem\u25cf SSEP, EEG:carotid\u25cf Intracranialprocedures(SAH,angiography, aneurysmclipping):\u25cb Preop\u25a0 Monitoring:standardASA(ECG, pulseoximeter, temperature, ETCO2)+preinductionA-line,EEG(ischemiaorsxdetectioncerebralcortex)\u25cf SSEP, MEP, EEG:neurovascular(IRorcrani),supratentorial\u25cf SSEP, MEP:skullbase,brainstem\u25cf SSEP, EEG:carotid\u25cf Burstsuppression:periodsofhigh-voltageelectrical activityalternatingwithperiodsofnoactivityinthebrain\u25a0 Hyponatremia2/2SIADHinapatientwithrecentneurosurgery:correctwhypertonicsaline(fluidrestrictioncancausevasospasm)\u25a0 Fluids:euvolemia\u25a0 Hb>8\u25a0 Nimodipine:60mgq4(NGtube)\u25a0 BPgoals\u25cf Havephenylephrineandnicardipineready\u25cf Preclipping\u25cb Unruptured:MAP>60,SBP<140\u25cb RupturedorelevatedICP:SBP>140orCPP>60,don'ttreatpassivehtn\u25cf Postclipping\u25cb NormalBP(SBP<140)\u25a0 Don'tincreasetransmuralpressure(MAP-ICP)->rupture\u25cf Preventhtn\u25cf PreventdecreasedICP\u25cb Inductiongoal:hemodynamicstability(htn=rupture,hypo=decreasedCPP)\n\u25cb Maintenance:normocarbia,normothermia(noimprovedoutcomeswhypothermia)\u25cb Partsofsurgery\u25a0 Temporaryclip(feedingartery)toimprovesurgicalvisualization:ifSSEPorEEGchangesincreasedBP10-20%(recruitcollateralflow)\u25cf Alternative:adenosine(6mg)totemporarilydecreaseflow\u25a0 Afteraneurysmfixed/clipped:SBP<140\u25a0 Intraopaneurysmrupture\u25cf Sign:SustainedincreaseinBP\u25cf Ifabletoquicklyclipit:improvesurgicalvisualizationandclipping:Esmolol(hypotension),adenosine,reduceCMR02(propofol->burstsuppression),euvolemia(fluidboluses)\u25cf Ifneedtimetovisualizeit:permissivehtn(MAP>90orCPP>70)\u25a0 Vasospasm\u25cf Maintaineuvolemiawcrystalloid+inducehtnwphenylephrine(noevidenceofimprovedoutcomesfortripleHtherapy)\u25cf ActivateIRforeitherangioplasty, intrarterialvasdilatoradministration,orbothEmergence:bolus1.5mg/kglidocainetohelpdecreasebucking.KeeptheBPw/in20%oftheptsnormalmeasurement.\u25cf DelayedEmergence:themostlikelycauseisasurgicalone,althoughnew-onsetvasospasmisalsoapossibility.\u25cb EnsureallinhalationalandIVagentshavebeend/c\u2019d.\u25cb Ensurefullreversalofneuromuscularblockade.\u25cb EnsurenormothermiaashypothermiaprolongsthedurationofactionofIVagents.\u25cb r/ohypoxia,hypercarbia,hyponatremia,andhypoglycemia.\u25cb intraopseizure->postictalstate.\u25cb W/U\u25a0 CT: subduralhematoma,intracranialhemorrhage,hydro/pneumocephalus.\u25a0 Vasospam:bedside=transcranialdoppler, gold-standard:angiography\u25a0 EEG:seizure\u25cf Post-opneurocomplications:\u25cb Riskofrebleedwithin24, vasospasm5-7dayslater\u25a0 Seizuresmayheraldrebleedingorvasospasm.Mostptsreceiveppxanticonvulsants(nimodipine)\u25cb Hydrocephalus-manifestingasworseningAMSistreatedwventriculardrainage.\u25cb Hyponatremia2/2SIADHorcerebralsaltwastingsyndrome\u25cb Cerebraledema:treatedwithhypertonicsaline,mannitol,ordexamethasone\u25cb >50%haveEKGabnormalities(STelevation) 2/2sympstimulationandincreasedICP,poorindicatorofactual MI\u25a0 Highestsensitivity andspecificityofMI=troponin\nAdditional Topics1) Cesareandeliveryinapatient withasthma\nPregnancycausesreducedERVandFRC, increasedTVandRR, increasedO2consumption, faster timetodesaturation; airwayswelling/edema/engorgement of veins.Theincreaseddifficultyinsecuringapregnant patient\u2019sairwayandthepatient\u2019sh/oasthmawouldleadmetoprefer toperformneuraxial. Treatment: elevateheadof bed,administer nonrebreather mask100%FiO2, prepareairwayequipment anddifficultairwayequipment, call for help. Administer albuterol if sheiswheezing. Thisscenariocanbeeither excessivelocal anestheticadministeredintotheepidural space, or anundiagnosedintrathecal catheter causingahighspinal. WatchtheBP, continuouslymonitor thepatient\u2019supper extremitystrength(havept squeezeyour fingers) andphonation, consider intubatingif suspect ahighspinal andrespiratorystatusiscompromised.2) Complicationof retrobulbar blockDDx: LAST(fromintravascular injection), highspinal (fromintrathecal injection),oversedated. Wouldget vitals, 12leadEKG, beginimmediatelymaskventilatingandpreparingairwayequipment for endotracheal intubation, call for intralipid, get ABG. Onceintubatedandwithmoreinfo, cantrydistinguishingbetweenLASTvshighspinal (ifoversedated, couldjust givenaloxone/flumazenil toreversewhatever agent wasgiventothepatient).3) Liver diseaseI wouldwant exercisetolerance, CBC, coags, Cr. Inducepatient withanRSI withstandardaspirationprecautions. I wouldusecisatracurium0.15mg/kgwithinductioninthispatient, asrocuroniumundergoessignificant hepatobiliaryexcretion. For fluids, iwouldprefer colloid(eg, albumin), ashisliver diseasemeansthat heislikelyhypoalbuminemic, andsohewouldthird-spacecrystalloidmoreeasily. TheDDxfor thehypotensionincludesvascular injury; LVP-inducedhypotension. Tx: albumin.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 6,
+      "question_text": "Post-operative Ventilatory Support: Assume ABG at end of surgery with double-lumen ET tube and bilateral ventilation",
+      "answer_text": "I wouldwant toknowwhat thepatient remembered(just theendof thecasewhentheETTwasremoved?Thewholecase?) tobetter understandwhat theymeanby\u201cawareness,\u201d asthat canmeanawiderangeof thingsandmaynot strictlybereferringtointraoperativeawareness. That said, if thispatient didindeedhaveintraoperativeawareness, I woulddomybest toconsolethepatient, explaintohimthat hiscardiacsurgeryplacedhimat ahigher riskfor intraoperativeawareness, andI wouldrefer himtoapsychiatrist for evaluationfor PTSD. I couldhavedonethingstoreducetherisk(BISmonitor, administer midazolamasthepatient iscomingoff of CPB), but thereisnowaytototallyeliminatethepossibilityof awareness. Next time, dependingonthetypeofsurgery, I wouldconsider placingaBISmonitor andadminister midazolamintheholdingarea.\nAdditional Topics1) Pre-eclampsiaConcerns: Difficult airway(2/2pregnancy), aspirationrisk(2/2pregnancy, possiblefullstomach), preeclampsiawithseverefeatures(concernfor seizures, end-organdamage,thrombocytopenia, pulmonaryedema, AKI, labileBPs). I wouldproceedwithneuraxialassumingnormal plateletsandcoagulationfactors. Thispatient haspreeclampsiawithseverefeatures, sowhilesheislikelyintravascularlydepleted(2/2hypertension), shealsohasdecreasedvascular oncoticpressure(2/2lossof proteinintheurine) andincreasedvascular permeability, whichleadstoedema(peripheral edema, cerebraledema, pulmonaryedema), andsoshemayinfact bevolumeoverloadedonatotalbodywater spectrum. Therefore, I wouldcautiouslyadminister asmall fluidbolus(250ml at atime) prior toplacingtheneuraxial, knowingthat thesympathectomycausedbyneuraxial will leadtoanexaggerateddropinBPinthispatient withpreeclampsiaandsevere-rangeBPs. i wouldavoidusinghydralazine, whichisnot aseasilytitratableof ananti-HTNagent, especiallyright beforeI amabout toinduceasympathectomyinapatient whoislikelytohaveaseveredropinBP. I wouldstart magnesiumsulfate: 4gIVbolusover 10minutesfollowedbyaninfusionat 1-2g/hr. I woulddothemagnesiumsulfatefor seizureprophylaxis. I woulduseaspirationprecautions: sodiumcitrate30ml,famotidine20mgIV, metoclopramide10mgIV.2) PediatricpainmanagementCysticfibrosisa) Obstructivelungdz, chronicpulminfections, liverdz(2/2biliarycirrhosis), pancreaticinsufficiencyi) Preop: PFTs, CXR, LFTs, coags, glucose(impairedglucosecontrol), avoidnasalmanipulation(sinusdzandpolyps)ii) Malnutritionincreasesriskofdelayedextubation(respmuscleweakness),decreasedwoundhealing, increasedinfxn, delayedemergence, increasedactionofhighlyproteinbounddrugs(hypoalbuminaemiaincreasesfreefractionofdrugs, decreasedproteinbinding)(1) Definition: albumin<3g/L, BMI<18.5iii) Postop: chestPTandearlymobilization",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 7,
+      "question_text": "Myocardial Ischemia: 8 hours after surgery patient complains of anterior chest pain and you note new S-T segment",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 8,
+      "question_text": "Nerve Injury: Following extubation and at time of discharge from ICU, the patient complains of numbness over ulnar",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 9,
+      "question_text": "Jaundice: 4 days after surgery, the patient's bilirubin is 6.5 mg/di. Surgeon questions if anesthesia might be the cause.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 10,
+      "question_text": "Obstetrical Anesthesia - Pre-eclampsia: Urgent C/S for fetal distress is scheduled for 19-year-old parturient who is pre\u00ad",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 11,
+      "question_text": "Post-CABG tamponade: A 65-year-old man underwent an uncomplicated CABG 16 hours earlier and was extubated 4",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 1,
+      "question_index": 12,
+      "question_text": "Temperature: A 48-year-old man is undergoing a radical prostatectomy during general anesthesia. Two hours into the",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 1,
+      "question_text": "ICP: How do you determine if ICP is increased preoperatively? Why important? If evidence for elevation, what steps",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 2,
+      "question_text": "Hypokalemia: Are you concerned about K+ 2.9? Why/Why not? If so, explain. Would you delay surgery until",
+      "answer_text": "PACUI wouldnot want unlimitedvisitors, asthePACUisaplacewithcriticallyill patientswhoneedconstant medical attention, andanexcessof visitorsmaycreatedistractionsand/orobstructiontobeingabletoprovideexpeditiouscaretoPACUpatients. I wouldinstituteavisitationpolicyoutliningthat all visitorsmust haveidentification, restrictedandlimitedvisitinghours, andamaximumnumber of guestsallowedtovisit at anygivenmoment(eg, 2guests). Thisvisitationpolicyshouldbemoreflexiblefor pediatricpatients, inwhichthepresenceof theparent or guardianislikelymoreimportant tohelpprovidecomfort andtosootheandreducetheanxietyof thechild. I wouldnot haveanydifferenceinvisitationpolicyfor inpatientsvsoutpatients. Thetypesof patientswhowouldbenefit most fromhavingafamilymember or visitor inthePACU: pediatricpatients(parent/guardiancanhelpsoothe/comfort thechildandreduceanxiety), elderlypatients(visitor canhelpredirect thepatient, whichcanhelpreducetheriskforpostoperativedelirium), non-Englishspeakingpatients(visitor canhelptranslate).",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 3,
+      "question_text": "Monitoring: Use PA or multi-orifice CVP catheter? Which? Why? During right IJ cannulation, patient coughs and",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 4,
+      "question_text": "Anesthesia Induction: Special precautions for this patient? Is propofol a good choice? If not, what would you select?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 5,
+      "question_text": "Anesthesia Maintenance: N20 contraindicated? Why/why not? If so, is \"balanced anesthesia\" ruled out? Is relaxation",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 6,
+      "question_text": "ICP: Surgeon complains that the dura is taut. Your response (Rx)? How much hyperventilation is enough? Deepening",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 7,
+      "question_text": "Hypotension: Sudden blood pressure decrease to 50/35. DDx? Mechanism? How establish Dx air embolism?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 8,
+      "question_text": "Fluid Therapy: What fluid would you use for maintenance? Why? Dextrose content important? Why? How would",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 9,
+      "question_text": "Pediatric Anesthesia - T - E Fistula: What are the major anesthetic risks for a patient with T-E fistula? Does the type of",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 10,
+      "question_text": "Outpatient Regional Anesthesia: A healthy 25-year-old man requests epidural anesthesia for repair of an inguinal hernia",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 1,
+      "session_id": 2,
+      "question_index": 11,
+      "question_text": "Anaphylactic reaction: You are called urgently to radiology where you find a 25-year-old woman undergoing an",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 1,
+      "question_text": "Monitoring: How would you determine the appropriate rate of intravenous fluid infusion? Explain. Different if",
+      "answer_text": "WithCPAP/PEEP, it redistributesfluidtoareasof thealveoli not involvedingasexchange, therebyincreasingareasof alveoli involvedwithgasexchangetodecreaseV/Qmismatch. NIV(Noninvasiveventilation)a) Decreasedmortalityandintubationforacuterespfailure(pH<7.3orPaCO2>45):COPD, cardiogenicpulmedema, acutehypoxemicrespfailureb) CPAP(continuouspositiveairwaypressure)isafixedpositivepressurethroughouttherespcyclei) Forrespfailure2/2acutecardiogenicpulmedemaii) Settings: startat10c) BIPAP(bilevel positiveairwaypressure)i) Forboth(acutecardiogenicpulmedemaorCOPD)ii) IPAP12-15, EPAP4-7(1) IPAPisthesameasPressuresupport=increasedventilation=blowoffmoreCO2(2) EPAPisthesameasPEEP/CPAP=increasedFRC=increasedoxygenationEndotracheal intubationreducespreloadandafterload, whileCPAPonlyreducespreload. Withendotracheal intubation, reducedLVafterloadleadstoincreasedCOanddecreasedLVO2consumption, decreasedworkof breathing(leadingtolessO2requirementsfor respiration).PAcatheter canhelpwithdifferential dxif lowBP(PACcanget SVR, CO, SvO2)",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 2,
+      "question_text": "Anesthetic Induction: How would you sedate/anesthetize patient for CT scan? Explain. If elect general anesthesia,",
+      "answer_text": "Hyper/hypoK, hypoMg, hypoCa. HypertensioncancausePVCsduetotheincreasedmyocardial workandO2consumptionagainst theincreasedafterload, leadingtomyocardial oxygensupply/demandimbalanceandsubsequent PVCsassomeregionsoftheheart arenowbecomingischemic. HypoxiaandanemiacanalsocausePVCsduetotheeffectsonmyocardial oxygensupply/demand. I wouldtreat theetiologyof thePVCsand, if thepatient washemodynamicallyunstable, performsynchronizedcardioversion100Jbiphasic. For SVT, i wouldassessthepatient\u2019shemodynamicstability(stableorunstable?). If unstable, I wouldperformsynchronizedcardioversion(50-100Jbiphasicfor atrial flutter, 120-200Jbiphasicfor atrial fibrillation, 50-100Jbiphasicfor SVTwithescalationof dosesif patient remainsinthearrhythmia). If thepatient isstable, thendetermineif therhythmisregular or irregular (AFlutter, AFib, multifocal atrialtachycardia). For theirregular rhythms, oftenusebeta-blockersandcalciumchannel-blockersasfirst-line. For theregular rhythms, cantrycarotidsinusmassage,valsalvamaneuver, andadenosine(6mg, followedby12mgif aseconddoseisneeded). I wouldperformcardioversionif thepatient wasunstable.3) I wouldcheckthefoleytor/okink/blockage/obstructioninthecatheter; giveafluidchallenge(250-500mLNaCl bolus) andfurosemide100mgIV; renal ultrasoundtoassessfor arterial/venousthrombosis, urineleak, andobstructionUrineelectrolytescanallowfor calculationof aFENa(it\u2019shighfor intrinsicrenalproblemslikeATN, it\u2019slowfromprerenal etiologieslikehypovolemia). FindingmuddybrowncastsintheurinecanalsohelpdiagnoseATN. I wouldlookat urinestudies, labs,\nTTE, patient\u2019stotal bodyvolumestatus, CXR, etc, beforedecidingonwhether thispatient needsaninotrope. If i wasconcernedthat thispatient wasgoingintodecompensatedHFandwantedtoknowmoreabout thefillingpressures, I wouldperformabedsideTTE(lookfor volumestatus, acutevalvular pathology, wall motionabnormalities, etc), andI wouldconsider placingaPAcatheter toevaluatefor CO, CI,PCWP, PAP, SVR.4) Regional techniquescouldreducetheneedfor systemicmedicationsandthesideeffectprofilesthat accompanythem. Giventhereducedproteinbindingintheplasmathat isseeninESRDpatients, systemicmedications(eg, fentanyl, midazolam, etc) canhaveanincreasedfreeplasmalevel inapatient withESRDascomparedtoahealthypatient.Myconcernswithregional techniquesfor thispatient wouldincludeconcernsaboutplatelet functionandcoagulopathyfor theplacement of aneuraxial anestheticlikeanepidural (uremiaimpairsplatelet function, soaskabout anyh/oeasybleeding/bruising;checkPltsandINR/PTT). Athoracicepidural wouldbeat ahigher level andthusallowfor coverageof thesurgical incisionsitewithlessvolumethanalumbar epidural. I wouldnot agreetoepidural catheter placement whilethepatient isasleep, asanawakeandcooperativepatient isimportant inreducingtheincidenceof inadvertent intraneural andintravascular injection, aswell astoreducetheriskof nerve/cordinjury. I wouldinfuseacombinationof local anestheticandopioid, asadditionof anopioidincreasesthedensityof theblock.5) Ulnar nerveinjury- positional pressureinjury. Motor injury: neurologyconsult Sensory:consider neuroconsult. EMGtoassessnerveinjury/prognosis, but likelywill resolveonitsownwithinweeks-months(sensorydeficit resolves<6weeksusually; motor deficittakeslonger usually).\nAdditional Topics1) I wouldfirst lookat theHR. If theHRalsoincreased, thiscouldreflect aninadequatedepthof anesthesiaor pain, soI woulddeepentheanestheticandadminister anopioid(eg, fentanyl, remifentanil). However, if theHRdroppedacutelyintandemwiththeriseinBP, thismaysuggest asuddenincreaseinICP(2/2sympatheticstimulationfromDLandintubation) whichcouldhaveprecipitatedaCushing\u2019sreflex. If that werethecase, Iwouldimplement measurestoreduceICP(elevateHOB, hyperventilatetransiently,mannitol 1g/kgbolus, hypertonicsaline, furosemide0.5-1mg/kgbolus) whilealsoinformingthesurgeonsabout thissuddenchange. Aninhalationagent wouldnot beappropriate, asI wouldprefer somethingthat ismorequicklyacting andrapidlytitratable(eg, nitroglycerin, esmolol, clevidipine). WithincreasedICP, i wouldneedtobemorecognizant of maintaininganappropriateMAP, asthereisreducedCPPfor anygivenMAPinapatient withelevatedICP. Furthermore, thereisoftendysfunctional cerebralautoregulationinapatient withelevatedICP, leadingtoCPPthat isproportional anddependent onMAP, whichfurther underlinestheimportanceof maintaininganadequateMAP. I wouldperformmaneuverstohelpreducetheICP(asreferencedearlier). ICPcanbemonitoredpostoperativelybyaskingthesurgeonstoplaceanexternal ventriculardrain(alsoallowsfor removal of CSFasneededtoreduceICP), asubarachnoidbolt, or\nanintraparenchymal device(eg, fiberopticCaminosystem). MonitoringtheICPinthepostopperiodisimportant toensurethat thereisadequateCPP(alteredautoregulationmeanstheCPPisdependent onMAPandCBF) andtobeabletorapidlydetectincreasesinICPwhichmayreflect postoperativebleedingor edema, whichmayrequireareturntotheOR.2) I wouldensurethat heisonamultimodal analgesicregimen(eg, acetaminophen,neuropathicagentslikegabapentinandpregabalin(helpful sincepainmaybeneuropathicgiventheproximityof theceliacplexus), NSAIDs, opioids). For patientswhostill havepersistent painand/or areunabletotolerateopioidsandpainmeds2/2sideeffects(eg, n/v), aceliacplexusblock(CPB) or celiacplexusneurolysis(CPN) canbeconsidered. Theblock/neurolysiscanlast upto24weeks. CPBinvolvesinjectinglocalanesthetictotemporarilyblockthesynapticpathwayswithintheceliacplexus, whiletheCPNinjectsdehydratedalcohol tochemicallydestroythesynapticpathwaysandganglia. Most commonsideeffects: diarrhea, orthostatichypotension. Moreuncommonbut moreserioussideeffects: pneumothorax, retroperitoneal bleed, spleniclaceration,bowel injury, paraplegia(2/2spasm/injurytothearteryof Adamkiewicz, whichsuppliestheanterior spinal cord), aortaor IVCpuncture, intrathecal/epidural injection. Animplantablemorphinepumpwouldnot beindicatedif thispatient will begettingtheCPB/CPN, asI wouldwant toevaluatetheefficacyof thistreatment beforeconsideringamorphinepump. If theCPB/CPNisnot effective, thenI couldtalktothepatient aboutconsideringamorphinepumpNeurolyticnerveblocka) Phenol painlessb/cworksbothaslocal +neurolytic(mainadvantageofusing), blockwearsoffin24hduringwhichtimeneurolysisoccursb) Alcohol (100%ethanol)painful, injectlocal beforeusingc) Nodifferenceinefficacybetweenphenol andalcohold) Possiblesideeffectofbothisdenervationhypersensitivitythat'sworsethanoriginalpaine) Theseshouldbereservedforpt'swshortlifeexpectancyf) Neverpermanentb/cneural tissuewill regenerate3) No, spinal anesthesiaisnot contraindicated, andit wouldactuallybepreferred, asaspinal anestheticwouldprevent thetransmissionof autonomicdysreflexia. Dailywarfarinwouldchangetheanestheticplan, asI wouldbeunabletoperformaspinal anesthetic.Giventhat thespinal cordlesionisaboveT6, I amconcernedabout autonomicdysreflexia. For apatient takingwarfarin, I wouldneedthewarfarintohavebeendiscontinuedfor 4-5daysandfor theretobeanormal INR(<1.5) toproceedwithaneuraxial technique.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 3,
+      "question_text": "Maintenance of Anesthesia: For subsequent craniotomy (subdural hematoma) would you favor fentanyl as the primary",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 4,
+      "question_text": "Prolonged Neuromuscular Blockade: Suppose you had injected 120 mg succinylcholine following 1 mg vecuronium",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 5,
+      "question_text": "Difficult Ventilation: One hour post-op, the patient is being mechanically ventilated and you note increased difficulty in",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 6,
+      "question_text": "Intracranial Pressure: Following craniotomy with evacuation of hematoma, an intracranial pressure monitoring device",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 7,
+      "question_text": "Hypothermia: Nurse in ICU reports rectal temperature is 33\u00b0C. Is this dangerous? Why/Why not? Treat? Rationale.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 8,
+      "question_text": "Hypoxemia/Fat Embolus: 48 hours post-op, the patient is still mechanically ventilated. He has developed progressive",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 9,
+      "question_text": "Mitra! Stenosis and Labor: Should epidural anesthesia be used for labor analgesia in a patient with mitral stenosis?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 10,
+      "question_text": "Liver Transplantation: A 38-year-old woman with post-necrotic cirrhosis requires an orthotopic liver transplant. What",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 1,
+      "question_index": 11,
+      "question_text": "Pain Therapy: A 32-year-old, previously healthy, construction worker fell from a scaffolding fracturing 5 ribs on the",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 1,
+      "question_text": "Temperature: Should his temperature be decreased prior to anesthesia? Why/Why not? How does elevated temperature",
+      "answer_text": "Hypoxemiconroomair, hypercarbicfromCOPD, not acidemicbecauseof metaboliccompensationwithametabolicalkalosis. Aroomair PaO254isclosetoaSpO2mid-80s, sosheshouldbeonsupplemental O2at all times.2) If therehasbeennochangeinher pulmonarystatussinceher PFTs, theni wouldnotrequirenewPFTsprior tosurgery. Other informationthat I wouldwant: frequencyofCOPDexacerbations, exercisetolerance, recent steroiduse, quality/quantityof sputumproduction, improvement of symptomswithnebs/inhaler, preopCXR. Asputumcultureisnot absolutelyneededtorulein/out apulmonaryinfection; canlookat aCXR, vitals,signsof systemicinfectionlikeelevatedWBC. Rulingout preoperativepulmonaryinfectionisimportant toreducethechancesof reactiveairwayintra/postoperatively,postoperativefailureof extubation, prolongedintubation, worseningof pulmonaryinfection.3) Ascitesfromtheovarianca. Ideallywouldwant todraintheascitespreoperatively,especiallyif theascitesisimpairingrespiratorystatus(decreasedERVandFRC) andleadingtoregurgitationsymptoms. Ascitescanalsoaffect fluidbalance. Wouldwant toreviewtherisksof drainingtheascites(inadvertent vascular or bowel injury, infection,bleeding) withthepatient beforeproceeding. Asciteswouldalter myinductionstrategy,asi wouldchoosetoproceedwithanRSI.4) Continuealbuterol (beta2agonist; bronchodilator) andipratropium(anticholinergic;bronchodilator) preoperativelytoreducethereactivityof theairway. I wouldavoidsedationinthispatient whoisat increasedaspirationrisk2/2ascites.\nIntraoperativeCare1) CVPisnot necessary. I wouldplaceanarterial linefor closer BPmonitoringinthiscasewhichcaninvolvelargebloodlossandfluidshifts, aswell asfor serial ABGstoassesstheadequacyof ventilation. Moredeadspaceinalong-termCOPDer, sogreaterdiscrepancybetweenEtCO2andPaCO2.2) RSI givenaspirationriskfromascites. Prop/sux/lidocaine. Attenuatetracheobronchialresponsebyensuringadeepplaneof anesthesia, administeringIVlidocaine. WouldnotuseanLTAgiventheaspirationrisk. Attenuatingthetracheobronchial responseismoreimportant inthisCOPDpatient toreducethechancesof bronchospasmduetoherreactiveairwaydisease.3) Bronchospasmwouldhear wheezes, whileendobronchial intubationwouldhearunilateral breathsounds. Tubeobstruction, wouldhavelikelyinadequateTVandwouldbefixedbysuctioningthetube. PTX, mayhavenoobviouschangesother thandecreasedbreathsoundsontheaffectedside, but onceit evolvesintoatensionPTX,wouldhavehemodynamicinstability, decreasedEtCO2andCO. Totreat bronchospasm,candeepentheplaneof anesthesiawithvolatileor IVagents; thus, for evenreallyseverebronchospasmtothepoint wherethereislimitedventilation, youcanstill deepentheanesthesiawithIVmedlikepropofol. However, analbuterol inhaler wouldnot behelpful withseverebronchospasmduetothelimitedventilationthat\u2019soccurring. Purebronchospasmtx=albuterol, deepentheanesthetic, epinephrine10mcgbolusesat a\ntime. If bronchospasmwasoccurringintandemwithadropinBPandEtCO2, thisissuggestiveof somethinglikeanaphylaxis; tx=epinephrine100mcgboluses.4) I wouldavoidN2Ointhispatient givenher roomair hypoxemia, assheisunlikelytotolerateahighN2Oconcentrationwhileunder GAgiventheincreasedshunt fraction(upto10-15%of COisshuntedwhileunder GA, comparedtoonly2-5%whenawake). Thissurgerymaylast over 4hours, sotheuseof asolublevolatilelikeisofluranemayleadtoaprolongedemergencecomparedtochoosinganinsolubleagent likedesflurane. All thevolatilesarebronchodilators(bybeta-2agonism), thoughdesfluranedoestendtobetheonethat\u2019smost associatedwithpungency/airwayirritability, soI wouldprefer sevoflurane(least pungent, greatest bronchodilatoryeffect). I wouldprefer toavoidpancuroniumbecausewhileit isanantagonist at nicotinicacetylcholinereceptors, pancuroniumcaninducebronchospasmviavagolyticeffect (sideeffectsof pancuronium: tachycardia,bronchospasm, increasedsalivation). I wouldbesatisfiedusingeither rocuroniumorvecuroniuminthispatient, asshedoesnot haveliver/kidneydisease, andbothvecandroccanbereversedwithsugammadex.5) AnI:Eratioof 1;1maynot beprovidingadequatetimefor expirationinthispatient withCOPD, leadingtoauto-PEEPingandbreathstacking. I wouldwant togivemoreexpiratorytime(1:1.5or 1:2for anI:Eratio). Also, assumingthispatient\u2019sactual andideal bodyweightsaresimilar, i woulduselower TVof 6-8mL/kg, sothat wouldmeanTV330-440mL. Finally, i wouldset theRRsothat anadequateminuteventilationisachieved. That bloodgassuggestshypoventilation, soI wouldincreasetheMVtoreducethePaCO2, andthereisafair amount of hypoxemiahere, soi wouldperformarecruitment maneuver toreduceatelectasisincasethehypoxemiaisbeingcausedbyatelectasis/shunt. I wouldalsoconsider whether thehypoxemiaisbeingcausedbycardiogenicpulmonaryedema, TRALI, TACO, ARDS. If PaCO2is65withbilateralwheezing, i wouldadminister albuterol, deepentheanesthetictotreat thebronchospasm.6) Adeepextubationmaybehelpful inavoidingbronchospasminapatient withCOPD.However, wouldneedtoweighagainst therisks(aspiration, challengingairway). I wouldnot doadeepextubationonthispatient givenher riskof aspiration. Patientswithlong-standingCOPDmaybedifficult toweanfromthevent duetoaright-shift intheirCO2responsecurve(i.e., their apneicthresholdishigher comparedtoanormal person).For extubation, i wouldconsider thelength/complexityof thesurgery, theamount of fluidgiven, thepatient\u2019scurrent hemodynamic(in)stability, thepatient\u2019scurrent ventrequirementsandbloodgas. Givenher long-standingCOPDandthenatureof thesurgeryitself (exploratorylaparotomyisalargeabdominal incisionwhichwill affectrespiratorystatuspostoperatively), i wouldbeverycautiouswithextubatingthispatient.If thepatient istostayventilated, i wouldchooseIMVmodetoreducechancesof ventdyssynchrony, avoidfatigue, andtoallowfor weaningoff thevent.\nSupplemental O2for achronicCOPDer doesNOTnecessarilysuppresstheir ventilatorydrive. Thecommonadagewasthat youwouldrefrainfromgivingachronicCOPDersupplemental O2becausethesepatientsarereliant onhypoxicrespiratorydrive, and\nthat thesupplemental O2wouldeliminatethisdriveandleadtorespiratoryfailure.However, therealityisthat chronicCOPDpatientsCANget supplemental O2, but youwouldjust titratefor alower target (e.g., SpO288-92%). It isnowthought that themajorreasonfor oxygen-inducedhypercapniainpatientswithCOPDisworseningofventilation/perfusionmismatchleadingtoincreaseddeadspace; whiletheadministrationof oxygendoesdiminishhypoxicventilatorydrive, itscontributiontotheacuteriseinPaCO2whensupplemental oxygenisadministeredisrelativelyminor. TheincreaseinPaCO2that isseenwiththeadministrationof supplemental O2is2/2avarietyofmechanisms, includingtheHaldaneeffect (withmoreoxygenbindingtothehemoglobin,hemoglobinhasmoreaffinityfor O2andlessaffinityfor CO2, soCO2getsdisplacedfromhemoglobinandtherebycausesincreasedPaCO2), areductioninhypoxicpulmonaryvasoconstriction(bloodflowisnowredirectedfromareasof lungwithgoodventilationtoareasof lungwithpoor ventilation, leadingtoincreasedV/Qmismatchingwithincreaseddeadspace), andseveral other mechanisms. But thetake-homepoint isthat ahypoxemicCOPDpatient can(andshould) still begivensupplemental O2withoutbeingput intohypercarbicrespiratoryfailure.\nHyperoxichypercarbiadescribesthephenomenonof increasedpartial pressureofarterial carbondioxide(PaCO2) associatedwithincreasesinFiO2predominantlydescribedinindividualswithchroniccompensatedrespiratoryacidosis; thesepatientshavelimitedabilitytoincreasealveolar ventilationtocompensatefor risingPaCO2andfallingpH. Ingeneral, increasedhypercapniadoesnot leadtoCO2narcosisandrespiratoryfailureastherelativeriseinPaCO2issmall andthesepatientsareacclimatedtotheir higher baselinelevel of PaCO2. Several mechanismsleadtothischange, includingtheHaldaneeffect (right-shift of theCO2-hemoglobindissociationcurveinthepresenceof increasedO2tension), reductioninhypoxicpulmonaryvasoconstriction,\nAdditional Topics1)2)3) Regional anesthesia:Ashoulder arthroplastycanbeperformedinanawakepatient if thepatient isagreeableandmotivated. I wouldperformaninterscaleneblockandattempt totarget C5-7nerveroots, I wouldcheckcoverageandif necessarycouldperformadditional blocks(superficial cervical plexus, suprascapular, or axillaryblocksdependingonwherethesurgeonwasworkingandthecoveragefromtheinterscalene); thiscombinationof nerveblockscanprovidetotal anesthesiaof theshoulder. InadditionI wouldinformthepatientthat thesurgeonmaysupplement wextralocal asneededduringthesurgeryandthattheywill berequiredtoremaininasittingpositionfor afewhourswiththeminimalsedation. Aninterscalenenerveblockreliablyblocksthephrenicnerve, causesahorner\u2019ssyndrome, andmorefrequentlyalsoblockstherecurrent laryngeal nerve\ncausingvoicehoarseness. There\u2019salsoahigher riskof intrathecal/epidural injectionwithaninterscalene, andvertebral arteryinjectioncancauseaseizure. Supraclavicular nerveblockcanalsobeusedfor shoulder surgery, but it lessreliablyblocksthesuprascapularnerve, whichinnervatesupto70%of theshoulder joint. However, thereareseveralstudiesandmeta-analysesthat haveshownasimilar analgesicprofilefor shouldersurgerywhencomparinginterscaleneandsupraclavicular nerveblocks.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 2,
+      "question_text": "Premedication: Would you premedicate this child? Why/Why not? With what? Why? Is Dantrolene indicated?",
+      "answer_text": "Wheezingisalower respiratorytract issue, whereastonsilsareupper respiratorytractandshouldcausestridor, if anything. PFTsandABGwouldn\u2019t necessarilyalter mymedical management; her asthmaismildintermittent, sowouldn\u2019t want PFTs, andsheisnot instatusasthmaticus, sowouldn\u2019t needABG. Wouldonlydelaysurgeryif severewheezing; mildwheezingwouldproceedwithsurgeryafter givinganalbuterol treatment.I woulddecidetocancel/proceedbasedonher symptomseverityandresolution.Ipratropiumandsteroidswouldbeuseful for anasthmaexacerbation, but if sherequiredanythingmorethanalbuterol, thenthecaseshouldbepostponeduntil her asthmaisbetter controlled.3) Snoringispart of STOP-BANGand, inthepresenceof other criteriaof STOP-BANG,suggeststhepossibilityof undiagnosedOSA. However, atonsillectomywon\u2019t necessarilycureOSA, asthereareother upper airwaystructuresthat cancauseobstruction(eg,tongue, UPPPstuff). I wouldnot consent thepatient for atrachif theairwaywasotherwisereassuringasthelikelihoodof alost airwayissolow. PulmHTNisconsideredif shehasalong-standingh/ountreatedOSA, whichcanleadtopHTNleadingtoRVfailure.4) ABPcuff that istoosmall canleadtofalselyelevatedBPreadings. BPcuff bladderlengthshouldbe80-100%armlengthandbladder widthshouldbe\u226540%of armwidth. IfBP190/100, cancel thiselectivesurgeryandadmit thepatient totheERfor thissevere-rangeBP(severeHTN: \u2265180/ \u2265120), asthesesevere-rangeBPsput thispatientat increasedriskfor stroke, MI, aorticdissection, acuteHF. ThesehighBPsalsowouldincreasetheriskfor bleedingintraoperativelyfor thissurgeryinahighlyvascular regionof thebody, andit wouldpredisposeher toincreasedBPlabilityduringthecase. AsthmahistorymeansI wouldwant toavoidnon-selectivebeta-blockers(eg, labetalol,\npropranolol, carvedilol) andshouldinsteadusethebeta-1-selectivebeta-blockers(eg,metoprolol, esmolol, atenolol). I wouldnot needanart lineassumingshewasnot withsevereBPs.\nIntraoperativeManagement1) Assuminganotherwisereassuringairwayexam, I wouldproceedwithanIVinduction(prop/succinylcholine) withdifficult airwayequipment intheroom. Assuminganawakewasattemptedandthepatient wasnot cooperative, I wouldtrytodeterminethecausefor her discomfort (eg, inadequatetopicalization) andconsider administeringasedative(eg, dexmedetomidineor remifentanil infusions). If IVinduction, I wouldchoosepropofolfor theantiemetic, rapidredistributioneffect. Difficultyventilating\u2192oral airwayandtwo-handedmaskventilation. If laryngospasm, tryjawthrust, positivepressureventilation, propofol 10-20mg, succinylcholine10-20mg. Failedintubation: wouldplaceanLMAtotemporizetoallowfor callingfor helpanddifficult airwayequipment. I wouldnot proceedwiththiscasewithanLMA2/2riskfor bloodtoenter theunprotectedairwayduringthistonsillectomy, aswell astheincreasedfireriskfor thiscaseintheevent of anunsealedairway. Thedropinsat withbradycardiaandhypotensionislikely2/2hypoxemia(earlystageof hypercarbialeadstoasympatheticresponsewithincreasedBP, but canalsoconsider hypercarbiaintheDDx).2) Useshorter actingagents2/2increasedsensitivitytotherespiratorydepressant effectsof opioids/sedativesinpatientswithOSA. I woulddoaTIVAwithpropofol giventhepatient\u2019sriskfactorsfor PONV, I wouldavoidketorolacinthesettingof her ASAallergy(likelyalsointolerant of NSAIDs) andalsobecausetonsillectomiescarryahigherbleedingriskthanastandardoperation. Nondepolarizingmusclerelaxantsnotnecessaryfor thiscase.3) Treat hyperglycemiaof 230. Givinginsulinwill result inanintracellular shift of K, soadminister Ksinceher Kisalreadylowat 3.3.4) NoPwavesbut regular rhythm=junctional rhythm(fromvolatilesandother anesthetics,or fromsicksinus, digoxintoxicity, AVnodeinfarct). Txwithatropine(faster actingthanglyco), andif noeffect, applydefibrillator padsanddotranscutaneouspacing.5) Withsurgical oozing, wouldrather wait toperformaROTEMandplatelet functiontestingbeforedecidingtoadminister FFPand/or Plts. If thisisslowoozing, thenit islikelytobeavenousbleed, whereasbrisk, pulsatilebleedingsuggestsanarterial source. If thepatient isintrendelenburgpositionor if thepatient ishypertensive, thiscanincreasethebleeding. Notrueoptimal BPtominimizebleeding, but I couldconsider deliberatehypotensiontoreducethebleedinginthefield. If EBLis1500mL, I wouldneedtoconsider overall clinical picture, hemodynamics, andsurgical course(eg, istherehemostasis?Hemodynamicinstability?) beforedecidingonwhether or not totransfuse.Hgb10\u2192don\u2019t transfuseif thereishemostasis, asshehasnoh/oCADandsomytransfusionthresholdwouldbeHgb7. If I werenot givingblood, I wouldgiveisotoniccrystalloidwiththeendpoint of correctinghypovolemia(eg, if SPV>10-12%, drymucusmembranes, lowurineoutput).",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 3,
+      "question_text": "Anesthesia Delivery System: Would an adult circle system be acceptable for this child? Why/Why not? Compare the",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 4,
+      "question_text": "Induction of General Anesthesia: How would you induce general anesthesia? What induction agent? Why?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 5,
+      "question_text": "Anesthetic Maintenance: Your choice? Why? Will a nitrous-opioid technique guarantee amnesia? Why/Why not?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 6,
+      "question_text": "Hypotension/Sepsis: Laparotomy reveals a perforated appendix with marked purulence and early abscess formation. 45",
+      "answer_text": "Theusual extubationcriteria, but alsohavingdifficult airwayequipment intheroom.Ideallywouldwant asmoothemergenceandextubationtoavoidbucking, whichcanincreasevenouspressuresandprecipitatesurgical sitebleeding. If patient isclenchingteethandbitingtube, I wouldadminister asmall bolusof propofol or lidocaineto\u201cstun\u201dthepatient andgivemeanopportunitytoplaceanoral airwayinthemouthandtoun-kinktheETT.\nAdditional Topics1) PlacentapreviaRegional isacceptable: epidural/CSEif h/omultipleC/S\u2019sand/or abdominal surgeries. Ifpatient ishemodynamicallyunstableandhasareassuringairway, wouldperformanRSIanddoGAtoallowfor faster deliveryandsurgical treatment of theplacentaprevia. Ifthereisongoingbleedinginthefieldandthepatient ishemodynamicallyunstable, thenIwouldtransfuse. If notypeandcross, administer Onegativeblood. Givetype-specificbloodif that isanoption.2) MyastheniagravisI wouldprefer toavoidaGAsincethispatient maybemorechallengingtoweanfrommechanical ventilationfor extubation2/2respiratorymuscleweakness. I wouldprefer todoanepidural vsaspinal for thispatient soastoallowfor slow, controlledtitrationof ananalgesiclevel inthispatient inwhomthelossof accessorymusclesof respirationwillbepoorlytolerated(lessof aconcernfor respiratorymuscleweaknessinapatient withnoh/omyasthenia, sowouldgowithaspinal inthat instance, assumingthesurgerywasnot expectedtobecomplicated). Withincisional painandaninadequateepidural,determineif it is2/2inadequatedosingof theepidural (tx: givemorelidocaineepidurally,consider increasingblockdensitywithanepidural opioid), apatchyepidural (tx:supplement withIVanestheticslikeketamine), or afailedepidural (replaceepidural orconvert toGA). Ketaminecouldbeuseful asanadjuvant aswell. GAisaffected2/2increasedsensitivitytonondepolarizingmusclerelaxants, increasedresistancetosuccinylcholine(but prolongeddurationof action2/2pyridostigme\u2019seffectsoninhibitingpseudocholinesteraseaswell). I wouldideallyavoidall musclerelaxants, includingsuccinylcholine.3) Regional anesthesia/local anesthesiatoxicityI wouldchooseanintermediate-durationLAlikelidocaine. If thetourniquet deflates, Iwouldimmediatelyattempt tore-inflateit, assessvital signsandEKGfor signsof LAST.Withseizures, call for help, intralipid, defibrillator; givemidazolam; administer IVfluidandpressors; support airway. Assumingtheseizureisshort-duration, thepatient regainsmental status, andheisbreathingspontaneously, thenI wouldnot intubatehim. I wouldcancel thiselectivesurgery, assymptomsandmanifestationsof LASTmayrecur.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 7,
+      "question_text": "Abdominal Aneurysm: A 63-year-old man is scheduled for abdominal aortic aneurysm repair. He is a heavy smoker",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 8,
+      "question_text": "Obesity: A 28-year-old, 150 Kg woman is to have transposition of her ulnar nerve near the elbow. Is intravenous",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 2,
+      "session_id": 2,
+      "question_index": 9,
+      "question_text": "Post-operative Hypotension: You are called to PACU to see a 75-year-old patient who had a TURP with spinal",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 1,
+      "question_text": "Selection of Monitors: Your choice for blood pressure monitoring? Basis for choice. Is this patient likely to show",
+      "answer_text": "Vaginal deliveryfollowingpreviousC-sectionEpidural canbeusedinthispatient whoisattemptingaTOLACtoallowfor adequatelabor analgesia. Risksof TOLAC: uterinerupture, abnormal placentation(i.e., placentaprevia, morbidlyadherent placenta). Monitoring: continuousSpO2, NIBPq10-15m, FHR.If theepidural top-upcausesalatedeceleration(uteroplacental insufficiency), I woulddroptheHOB, ensureleft uterinedisplacement, cycletheBPcuff, administer IVfluidandapressor (ephedrinevsphenylephrine) toraisetheMAP. All of thesemeasureswouldbeundertakeninaneffort toimproveuteroplacental perfusion.2) CardioversionLikelywouldtryavoidingpropofol giventheBPisborderlineline, andI wouldn\u2019t want toreduceSVRandsubsequentlyCPPinthispatient witharecent PTCA. I wouldprefer tousesomethinglikefentanyl, etomidate, and/or IVlidocainefor thecardioversion.Assumingareassuringairwayandtheavailabilityof airwayequipment/suctionat hand, IwouldbecomfortabledoingacardioversionwithGAusingmaskventilationfor airwaymanagement. If theBP70/40, thispatient isunstable, andI wouldperformthecardioversionwithout theuseof ageneral anesthetic.3) Chronicpost-thoracotomypainNeuropathicpainthat recursalongthethoracotomyincision, must persist for >2monthsbeforethisisthediagnosis. DDx: tumor recurrencevsintercostal nervedamagevschronicpost-thoracotomypainsyndrome. Must doimagingtoruleout tumor recurrencebeforestartingtxfor chronicpost-thoracotomypainsyndrome: NSAIDs, neuropathicagents(eg, gabapentin, pregabalin), TENS, spinal cordstimulator,\u25cf Chronicpost-thoractomypainsyndrome\u25cb Neuropathicpain(burning, stabbing), recursorpersistsalongathoracotomyincisionatleasttwomonthsfollowingthesurgical procedure\u25cb DDX: intercostal nervedamage, tumorrecurrence(eval wimaging)\u25cb T/x: NSAIDs, amitriptyline, gabapentin, opioids, andketamine\u25a0 Non-pharmacological treatments: includetranscutaneouselectrical nervestimulation, cryoanalgesia, radiofrequencyablation, andspinal cordstimulation",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 2,
+      "question_text": "Maintenance of Anesthesia: Surgeon anticipates about 3-4 hours for operation. After securing airway and induction,",
+      "answer_text": "If planningonweaningtoextubatewithagoal withinaday, woulddoadexmedetomidineinfusion(spontaneousrespiratoryeffortswhilealsoallowingforneurologicassessments). Propofol infusionsyndrome: associatedwithrates>75mcg/kg/hr for prolongedperiod, associatedwithmetabolicacidosisandcardiomyopathy2/2impairedfattyacidoxidationinmitochondriarespiratorychain->lacticacidosisfirstsign=tachycardia, latesignmetacidosis, bradycardia, hyperkalemia, hypertriglyceridemia,cardiacfailure(MCmanifestationisprogressivecardiacdysfunction)Unlessthepatient wasexhibitingsignsof ventilator dyssynchronyintheabsenceofmeetingother extubationcriteria, thenI wouldrather avoidtheuseof neuromuscularblockingagents. I wouldplaceadailyholdonsedationintheearlymorninghourstoallowfor neurologicexamstobeperformedinthemorning.3) DDx: cardiogenicpulmonaryedema, neurogenicpulmonaryedema, negativepressurepulmonaryedema, ARDS, PE. Neurogenicpulmonaryedema2/2sympatheticcatecholamineresponsecausingincreasedstrainontheheart, andthereisalsoincreasedvascular permeabilitytothelungs.4) DDx: central diabetesinsipidus, primarypolydipsia, DKA, exogenousdiureticadministration. FENaisuseful for differentiatingbetweenpatientswithprerenal AKI vsATN, but aFENaisnot useful inthispatient withpolyuria. Instead, I wouldorder aserumNa, urineosmolalitystudy. Hypernatremicpatientswithaurineosmolality>600mosm/kghaveasolutediuresis(eg, DKA), whereashypernatremicpatientswithaurineosmolality<300mosm/kghaveDI. Todiagnosecentral DI, giveDDAVPandyouwouldseeincreasedurineosmolality. If it isnephrogenicDI (usually2/2lithium, hyperCa,Sjogren\u2019s), DDAVPwouldnot increasetheurineosmolality. Txfor central DI: giveDDAVP, \u00bdNStoreplaceurineoutput (hourlymaintenance+\u2154previoushour\u2019surineoutput). Txfor nephrogenicDI: thiazide, amiloride. Dextrose-containingsolutionsworsenneurologicoutcomesinpatientswithTBI/neurologicsurgery, sodon\u2019t giveit.5) ICPmonitoringwouldbeideal toallowfor measurement of acutechangesinICPwhichcouldindicateare-bleed, cerebral edema, etc. AcuterisesinICPwouldcompromiseCPPandwouldbeapotential causefor returningtotheOR. Intheevent of anincreaseinICPintheICU, I wouldlet theneurosurgeonsknowimmediately, elevateHOB, givehypertonicsalineandmannitol (1g/kg), transientlyhyperventilateif needed. Steroidscouldhelpreducecerebral edema. Deepeningof sedation(eg, propofol bolus) couldhelpreduceCMRO2. EEGwouldhelpwiththediagnosisof braindeath(electrocerebralsilenceor aflat EEGwouldbedemonstratedintheevent of braindeath), but alsoneedtomeet other criteriatodiagnosebraindeath: correctionof metabolicderangements,absenceof drugintoxicationor poisoning, normothermia, apneatest (norespiratoryresponsetoaPaCO2>60mmHgor 20mmHggreater thanbaselinevaluesandafinalarterial pHof <7.28), absenceof brainstemreflexes(e.g., gagreflex, oculovestibularreflex, pupillarylight reflex, corneal reflex).6) EvaluatebycheckingABG, PCWP, hemodynamics, SpO2. Tx: ARDSNETvent settingsandstrategy. AvoidhighTVandPEEPtoavoidoverdistensionof alveoli andbarotrauma\nAdditional Topics",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 3,
+      "question_text": "Hypoxemia: SpO2 falls from 98 % to 93 % over the hour following induction. Causes? How will you establish cause?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 4,
+      "question_text": "Extubation: Patient slow to emerge and remains intubated, breathing spontaneously. His jaw is wired closed. What are",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 5,
+      "question_text": "Severe Hypertension: After extubation, patient's blood pressure 230/115 and P 110. Causes? Your concerns about this",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 6,
+      "question_text": "Severe Nausea: Patient has vomited twice and has severe nausea. Why is this occurring? Is it a concern? Why? Is an",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 7,
+      "question_text": "Stridor Occurring 3 Hours Post-Operatively: In ICU, nurse calls to inform you of worsening stridor. How will you",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 8,
+      "question_text": "Myocardial Ischemia: 18 hours after surgery patient complains of left chest and jaw pain. How will you evaluate?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 9,
+      "question_text": "Pediatric Neurosurgical Anesthesia: A 3-year-old needs MRI and angiogram for diagnosis and localization of",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 1,
+      "question_index": 10,
+      "question_text": "Latex Allergy: A 35-year-old woman with a history of latex allergy is scheduled for shoulder arthroscopy. How will",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 1,
+      "question_text": "Fetal Distress: What is late deceleration? Significance? Are other diagnostic tests indicated to confirm fetal distress?",
+      "answer_text": "Don\u2019t needaCVP. Giventhepatient\u2019sintravascular depletion, shemaybemorelikelytohaveacompressibleinternal jugular veinthat ismorereadilypuncturedthroughthebackwall. Shemayalsohaveahigher chanceof bleeding/hematoma2/2thrombocytopeniaandimpairedplatelet function.2) Spinal isappropriateaslongasher platelet count isnormal. Epidural wouldbehelpfulfor managingpostoperativepain, whichmaybemoredifficult tomanageinthispatientwhoisachronicheroinuser.3) Anticipatedproblemsoninduction: aspirationrisk(pregnancy), difficult airway(pregnancy, preeclampsia), rapiddesaturation(reducedFRC, higher O2consumption),morelabileBPpronetodroppingsignificantlywithinduction(intravascular depletionfrompoorlycontrolledHTN). Pretreatment medsfor aspirationrisk, havedifficult airwayequipment inroom, elevatedHOBtoreduceaspirationrisk, preoxygenatewell, useetomidatefor inductionandhavevasopressorsreadilyavailable, pre-inductionarteriallinecanbeconsideredif timepermits. Higher likelihoodof intraoperativeawarenessinobstetrical surgery, but cannever guaranteewithabsolutecertaintythat thispatientwon\u2019t haveit. Cantakestepstoreducetheriskof intraoperativeawarenessbyusingaBISmonitor, administeringmidazolamafter delivery, payingcloseattentiontothemonitor for signsof tachycardia/HTNsuggestiveof light anesthesia, don\u2019t usealong-actingparalyticagent sothat I couldlookfor patient movement asanother signoflight anesthesia.4) SevereHTNcanleadtostroke, intracranial hemorrhage, andMI inmom, leadingtoreducedCOwhichwoulddecreaseperfusiontotheplacenta, whichcanleadtoinsufficient fetal perfusion. Treat withdeepeningtheanesthetic, administer aquick-actingandshort-actinganti-HTNlikeclevidipine, nitroglycerin, or esmolol.5) Apgar 2withthickmeconium\u2192assessrespiratoryeffort andHR. If apneic/gaspingwithHR<100, initiatePPV(maskventilation) at arateof 40-60breaths/minor CPAPandmonitor withSpO2andEKG. If theHRisNOTincreasing, evaluatefor adequatePPVandseal, suctionnose/mouth, consider intubating. If theHR<60, intubatetheneonate. IftheHRincreases>100, canstopPPVandswitchtosupplemental O2. If theHRincreasesbut remains<100, ensureadequatechest risewithPPV.\nNeonatal resuscitationalgorithm- 2010guidelines\nAfter deliveryof aneonatewithsuspectedmeconiumaspirationsyndrome, doNOTperformvigoroussuctioning. Thecarefor theseneonatesshouldfollowthesamegeneral principlesfor further intervention(eg, intubation), whicharebasedoninadequaterespiratoryeffort (gasping, laboredbreathing, poor oxygenation) or HR(<100beats/min). Themanagement of meconiumaspirationsyndromeislargelysupportive:maintenanceof adequateoxygenationandventilation; maintenanceof adequateBPandperfusion; correctionof metabolic/glucoseabnormalities; empiricantibiotictherapy;\nminimal handlingof theinfant toavoidagitation, whichexacerbatespersistent pulmonaryhypertensionof thenewborn(PPHN) if present. For newbornswithMAScausingsevererespiratorycompromisewithPPHN, theymayneedmechanical ventilation,high-frequencyventilation, inhalednitricoxide, surfactant therapy, and/or ECMO.Don\u2019t givenaloxonebecausethiswouldjust put theneonateintowithdrawal.6) Severehemorrhagewithplacental extractionddx: morbidlyadherent placenta(i.e.,acretavsincretavspercreta), atony, bloodvessel injury/laceration. Lookfor bigger IVaccess, placeanarterial lineif oneisn\u2019t alreadyinplace, call for morebloodandconsider MTPif there\u2019scontinuedmassivehemorrhage, asktheOBabout uterinetoneandconsider administeringmoreoxytocinIV, misoprostol rectally, carboprost IM(avoidmethylergonovine2/2preeclampsia), consider callingIRfor possibleuterinearteryembolization. Transfuseif thereiscontinuedbleedingandhemodynamicinstability, but ifthereishemostasisinthesurgical fieldandthepatient remainshemodynamicallystable,theni woulduseanABGtocheckfor aHct toguidetransfusiondecision. If cross-matchnot complete, wouldgiveO-negativeblood.\nAdditional Topics1) Avoidusingisofluraneduetoitsslower emergencetime, asthesepatientsgenerallyhaveaneuroexamat theendof thecasefor whichthesurgeonswouldwant anawake/alert patient prior toextubating. AvoidN2Ogiventhetendencyfor N2Otomigrateintoclosedair spaces, whichcanoccur oncetheskull isclosedandleadtopneumocephalus. CVPisessential duetohighriskof VAE. Placement confirmedbyTEE, or seeingbiphasicPwavesonEKGwithwireandthenpullingwirebackonecm.IncreasedICPcanbepreventedbyavoidingN2Oandvolatileanesthetics, usingananestheticagent that lowersCBFandICP(eg, propofol), andaskingthesurgeonstoplaceanEVDat theendof thecasetomonitor ICPandtopotentiallydrainCSFasneeded. Mannitol andfurosemideareequallyeffectiveosmoticdiureticsthat alsoreducetheproductionof CSF. ThePaCO2shouldbeloweredonlyaslowasPaCO225-30mmHg, anditseffectsonICPreductionareephemeral (1-24hoursinduration).Hyperventilationcanbeuseful for elevatedICPduetocerebral edema, intracranialhemorrhage, andtumor, but hyperventilationshouldbeminimizedinpatientswithstrokeor atraumaticbraininjury, asthevasoconstrictioninducedbyhyperventilationmaycauseadecreaseinlocal cerebral perfusion, resultinginworseningneurologicinjury.Certainbrainstemstrokes(lateral medullarysyndrome2/2ischemiatoposterior inferiorcerebellar artery->ischemialateral medullaoblongatainthebrainstem) sharesimilaritiestoVAE: theycauseautonomicdysfunctioncausing tachycardia,labilebloodpressure,intermittentbradycardia.Differentiatebrainstemischemia(changesinevokedpotentials, impairedbrainstemreflexes(eg, coughandgagreflexes,vestibulo-oculocephalicreflex, pupillaryreactivity, corneal reflex)) fromvenousairembolus(seeair onaTEE, hear turbulent flowwithaprecordial doppler, hemodynamiccompromisewithadropinBPandEtCO2).",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 2,
+      "question_text": "Pre-medication: Would you administer any additional medications pre-operatively; specifically antacids/",
+      "answer_text": "COPDmakesyoumorehesitant toprescribeasystemicmedicationthat couldaffectrespiratorydrive(eg, opiates). Antiviral therapy(eg, acyclovir, valacyclovir, famciclovir) isofferedif thepatient presentswithin72hoursof thedevelopment of symptoms. Ifsymptomsbegan>72hoursagobut newvesicles/lesionsarestill appearing, thenantiviralsarealsoofferedtothat patient population. If symptomsbegan>72hoursagoandnomorenewlesionsareappearing, there\u2019sunknownbenefit tobeginningantivirals,sowouldn\u2019t recommendit.Thispatient hasacuteherpeszoster (reactivationof latent varicella-zoster virus(VZV)alongasensoryganglion) withpainandrashadheringtoadermatomal pattern.AnalgesicoptionsincludeNSAIDs, acetaminophen, tramadol, opioids. For patientswithuncomplicatedacuteherpeszoster (i.e., not achronicpainsyndromethat continuesafter theresolutionof therashandvesicles), thereisNOrolefor adjuvant medslikegabapentin, TCAs, or glucocorticoids; nogoodevidencethat backstheuseof thesemedstoprevent postherpeticneuralgia(PHN).\nFor patientswithcomplicatedzoster (i.e., ocular, otic, or neurologicmanifestations), IVantiviralsareusedandglucocorticoidsmayhavearole.\nherpeszosterpainsyndrome(postherpeticneuralgia)-painthatpersists>4monthsinthesamedistributionasaprecedingdocumentedepisodeofacuteherpeszoster, evenafterresolutionoftheassociatedrash/vesicles.a) burning, sharp, orstabbing paininthoracic, cervical, andtrigeminal nervesaremostcommonlyaffected; allodynia(painfromatypicallynon-painful stimulus)b) Initial treatmentformoderatetoseverepain(acuteevent): gabapentinorpregabalin(avoidinptswCKD->useTCAs)i) TCAs(amitriptyline)-anticholinergicsideeffectprofile(eg, sedation, drymouth), sousewithcautionintheelderlyii) Othertreatmentoptions: topical capsaicin(1) Intrathecal glucocorticoidinjectionifpainintractable(2) Noothermeds, cryotherapy, TENS, topical lidocaine, orsurgeryhaveenoughevidence3) Succinylcholinefasciculationsmaybeinterpretedaspacingspikes, leadingtoinhibitionof thepacingfunctionof anAICD, soprior togivingsux, youshouldreprogramtheAICDtoasynchronousmodefor apacer-dependent person(puttingamagnet onapatient withanAICDonlydeactivatestheshockingfunction). However, theAICD\u2019santiarrhythmiacapabilitiesusuallyareverysophisticatedandprecise, andsoinappropriateAICDdischargeisunlikely.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 3,
+      "question_text": "Selection of Anesthesia: Would you choose a regional or a general anesthetic? Rationale for choice. Suppose patient",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 4,
+      "question_text": "General Anesthesia: Attempts to attain an adequate level with epidural fail and examination of catheter shows it to have",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 5,
+      "question_text": "Intra-operative Hypertension: After rapid sequence induction and intubation, surgeon begins and patient's blood",
+      "answer_text": "Theincreaseinafterloadledtoincreasedmyocardial workandO2consumption, leadingtothecardiogenicshockseenhere(highPAP, highPCWP, lowCI). CanchecktheTEEfor wall motionabnormalitiesaswell. Thetreatment isafast-acting, rapidlytitratableanti-HTNmedlikenitroglycerintoreducetheafterload. Ideally, thesurgeonwouldgivewarningbeforecrossclampapplicationsothat theanti-HTNmedscouldbeadministeredprophylacticallyor at thesametimeasclamping.6) I wouldattempt toextubateintheORassuminganotherwiseuneventful intraoperativecourse. Anepidural helpsfacilitateextubationandreducesthechancesof failurebecauseof theimprovedpaincontrol allowingfor better respirationandsubsequentlyfewer pulmonarycomplicationsfromsplinting(e.g., atelectasis, PNA) andfromsystemicopioids(respiratorydepression). TheABGshowsadequateoxygenationbut adegreeofhypercarbiaabovehisbaselineof PaCO246, soI wouldnot extubatethepatient intheORwiththisABGandinsteadprefer toweanhimfromthevent intheICU. I wouldusestandardextubationcriteriafor thispatient whilealsoensuringtheavailabilityof difficultairwayequipment. Withthispatient\u2019spre-existingpulmonarydiseaseandmultiplemedical comorbidities, I wouldlikelybemorecautiouswithextubationcomparedtoahealthypatient withnopulmonarydisease.\nAdditional Topics1) Retinal detachmentCoulddoaretrobulbar blockinamotivatedpatient whoiscooperative. Advantagesofblockincludeallowingfor awakepatient, lesssystemicmeds, possiblyashorter PACUcourse. Disadvantagesincludetherisksof theblockitself (intrathecal injection,intravascular injection, nervedamage, globepuncture). LMAisacceptableif GAwerechosen. Succinylcholinecouldbeusedif needed, but theredoesn\u2019t appear tobeanyindicationfor usingit inthisparticular patient. Retrobulbar blockwithimmediateapnea:DDx=highspinal vs. LAST. Immediatelycall for help/defib/intralipid, checkhemodynamicsandEKG, giveIVfluidandpressorsasneeded, secureairway.Retrobulbarblocka) Hemorrhage, subarachnoidinjection, intravascular->LAST, oculocardiacreflex(MCcomplication), posteriorglobepuncture(severepainafterblock, noincreaseinIOP),hemorrhage(increasedIOP, closinguppereyelid, protoposis), central retinal arteryocclusion(total lossofvision='shadepulledovereye, painless)i) Ptdesatsafterretrobulbarblock: 2/2local injectionintoopticnervesheath->spreadsintoCSFcausinghighspinal (t/x=ventilation), ifpthasseizures2/2arterial injectionb) Peribulbarblocksvsretrobulbarblocki) Retrobulbar: higherriskretrobulbarhematoma, globepunctureii) Peribulbarrequiresmorelocal, longertimetoonset(maindisadvantage), higherincreaseinintraocularpressure(frommorelocal), increasedriskofchemosis(conjunctival edema, obscuressurgical field)2) Liver disease\nLabs: platelets, INR, typeandscreen, K(if hepatorenal causingESRD). Withjust anelevatedINRandfor thislow-risksurgery, I wouldlikelyproceedafter ensuringtheavailabilityof bloodproducts. If I weretogivebloodproducts, I wouldgive4-factor PCC.Activatedfactor VIIawouldn\u2019t likelycorrect thecoagulopathy, asmorefactorsthanjustfactor VII aredeficient inthisend-stageliver patient. Solongasthesurgeryisotherwiseuneventful andthepatient isreliableenoughtoseekhelpif thereareanyissues, thereisnoreasonwhythiscasecannot bedoneasanambulatorycase.3) MyastheniagravisDifferentiatebetweenmyastheniccrisisvscholinergiccrisisbylookingfor SLUDGEsymptoms(eg, salivation, lacrimation, urination, diarrhea, GI upset, emesis) inacholinergiccrisis, whereasmyastheniccrisiswill manifest withweaknessof respiratoryandbulbar muscles(e.g., weakcough, dysphagia, obstruction, changeinphonation,difficultyhandlingsecretions, useof accessorymusclesof respiration, paradoxicalmovement of theabdomen). CholinergiccrisiscandevelopinpatientstakingpyridostigmineasoutpatientswhoarethengivenananticholinesteraseintheORforreversal of neuromuscular blockade, whichleadstoexcessacetylcholineandandprolongedparalysis. Txfor cholinergiccrisisisatropine(0.4-2mgIV) or glycopyrrolate(0.2-1mgIV). Txfor myastheniccrisisisIVIG, plasmapheresis, immunomodulatingtherapy.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 6,
+      "question_text": "Neonatal Resuscitation: The child is delivered covered with meconium and has an APGAR of 2. Your interpretation?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 7,
+      "question_text": "Hyperthermia: Shortly after delivering placenta, you note gradual rise in mother's temperature from 36.5\u00b0 to 38.8\u00b0C",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 8,
+      "question_text": "Diffuse Bleeding: Surgeon notes diffuse oozing after delivery of placenta. How will you evaluate? Why? Suppose",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 9,
+      "question_text": "Intravenous Drug Use and Anesthesia: A 42-year-old white woman, heavy intravenous drug abuser is scheduled for an",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 10,
+      "question_text": "Cardiovascular surgery - anticoagulation: A patient about to undergo CABG surgery has ACT of 120 seconds.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "question_index": 11,
+      "question_text": "Complication of hyperalimentation: A 59-year-old man with regional enteritis is receiving parenteral nutrition. What",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 1,
+      "question_text": "Monitoring: The patient's PA catheter is accidentally pulled out during transfer to the OR table. Do you need to replace",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 2,
+      "question_text": "Anesthesia Induction: Is ketamine a suitable induction agent? Why/why not? What are your drug preferences for",
+      "answer_text": "No, ketamineisnot suitablegiventhecatecholaminedepletioninthispatient whichmeansketamineadministrationcouldresult indirect myocardial depression. Ideally,wouldinducewithetomidate. WiththedropinBP, wouldtreat withsomethinglikephenylephrinebecausethedropinBPwoulddecreasecoronaryperfusion, andinthispatient withknownmultivessel CAD, goal wouldbetomaintaincoronaryperfusionbykeepingBPhigher3) If fast-tracking, woulduseshorter-actingagentslikedesfluraneandfentanyl, aswell asmultimodal analgesia(egTTPblocks, acetaminophen). If not consideringfast-tracking,woulduselonger-actingagentslikeisofluraneandhydromorphone.4) UseaTEEtoevaluatefor hypovolemiaor hypocontractility; obtainSVRmeasurementwithPAcatheter (coldinjectate) andthencancalculatetheSVRfromthat sinceSVR=(MAP- CVP) / CO] * 80; givevasoconstrictor if lowSVR; usepacer if arrhythmialikeVtach/Vfib; giveinotrope(e.g., epinephrine) if lowCI/hypocontractile.\n\u2022 Normal PAcatheter values(must memorize)\u25aa CO: 5L/min\u25aa CI: 3L/min\u25aa SV: 70cc\u25aa SVindex: 40\u25aa SVR: 1000PAPs: 25/15\nKeyPeriodsDuringCardiacSurgery\nPeriod Anesthetic goals\nPrebypass period\nInduction and maintenance ofanesthesia\n\u25a0 Maintain optimal myocardial O2\nsupply andminimize demand to prevent or treat ischemia\nAntibiotic prophylaxis \u25a0 Timely administration of selected antibiotics\nPositioning \u25a0 Careful arm, hand, and head positioning toavoid injuries\nFluid management \u25a0 Restrict fluid administration since initiation ofCPBcauses significant hemodilution\nPrebypass TEE examination \u25a0 Assess regional LVwall motion abnormalities\u25a0 Assess global LVfunction\u25a0 Assess global RVfunction\u25a0 Assess structure and function of cardiac valves\u25a0 Evaluate thoracic aorta, interatrial septum, andleft atriumwith left atrial appendage\u25a0 Detect development of ischemia, hypovolemia,hypervolemia, or lowSVR\nIncision and sternotomy \u25a0 Treat hypertension and tachycardia due topainful stimuli\u25a0 Briefly interrupt ventilation during sternotomyto avoid lung injury\nHarvesting of the internalmammary artery\n\u25a0 Reduce tidal volume\nAnticoagulation for CPB \u25a0 Administer heparin and ensure adequateanticoagulation (confirmwith ACT)\nAntifibrinolytic administration \u25a0 Administer antifibrinolytic agent to minimizemicrovascular bleeding\nPerfusionist completes CPBcircuitsetup, priming, testing of alarmsand circuit, adherence to checklist\n\u25a0 Confer with perfusionist if indicated\nAortic cannulation \u25a0 Reduce systolic BP to <100 mmHg to reducerisk of aortic dissection\nVenous cannulation \u25a0 Treat hypotension or initiate CPBfor malignantarrhythmias\nInitiationof CPB\nRetrograde autologous priming \u25a0 Gradual onset of CPBto reduce hemodilutionfromcrystalloid prime\nControl of O2\ndelivery, CO2\nremoval,and pump flowassumed byperfusionist\n\u25a0 Discontinue controlled ventilation andanesthetic administration via the anesthesiamachine\u25a0 Discontinue cardiac support (eg, inotropicagents, IABP)\nAnesthetic administration \u25a0 Initiate volatile anesthetic administration viavaporizer attached to CPBcircuit, or use TIVAtechnique\u25a0 Monitor rawand/or processed EEGand expiredanesthetic gas fromthe oxygenator to preventawareness\u25a0 Monitor neuromuscular function; administerNMBAs to prevent movement or shivering\nPlacement of aortic crossclamp andadministration of cardioplegia\n\u25a0 Ensure complete myocardial arrest (absence ofECGelectrical activity)\u25a0 TEE monitoring for aortic insufficiency and LVdistension during antegrade cardioplegiadelivery\nPlacement and monitoring ofcoronary sinus catheter and LVvent\n\u25a0 TEE assessment of coronary sinus catheterplacement for retrograde cardioplegia delivery\u25a0 Monitor coronary sinus pressure\u25a0 TEE assessment of correct LVvent placementand effective LVdecompression\nMaintenance ofCPB\nCooling \u25a0 Maintain temperature gradient between venousinflowand arterial outlet <10\u00b0C\nMaintenance \u25a0 Maintain MAP \u226565 mmHg (or \u226575 mmHg forpatients with cerebrovascular disease or severeaortic atherosclerosis)\u25a0 Monitor temperature at oxygenator arterialoutlet temperature (surrogate for cerebraltemperature) and other sites (eg,nasopharyngeal, bladder, blood)\u25a0 Maintain Hgb \u22657.5 g/dL (Hct \u226522%); suggesthemoconcentration if Hgb <7.5 g/dL, thentransfuse PRBCif necessary\u25a0 Maintain SvO2\n\u226575%; suggest increase inpump flowif SvO2\n<75%\nRewarming \u25a0 Slowrewarming \u22640.5\u00b0C/minute, withtemperature gradient between venous inflowand arterial outlet \u22644\u00b0C\u25a0 Avoid hyperthermia; target temperature is37\u00b0Cat nasopharyngeal site and 35.5\u00b0Catbladder site\u25a0 Monitor for awareness or return ofneuromuscular function\nRemoval of aortic crossclamp \u25a0 Defibrillate and administer antiarrhythmicagents if necessary to treat ventricularfibrillation\nWeaningfromCPB\n\u25a0 Refer to UpToDate topic on weaning fromcardiopulmonary bypass (CPB)\nPost-bypass\nVenous decannulation \u25a0 Ensure initial reinfusion of blood drained fromthe venous tubing into the pump reservoir in50- to 100-mL aliquots\u25a0 TEE assessment for adequate ventricular filling\nAnticoagulation reversal, pumpsuckers turned off, intravascularvents removed\n\u25a0 Administer protamine slowly, treat protaminereactions\u25a0 Ensure complete reversal of anticoagulation\nAortic decannulation \u25a0 Reduce systolic BP to <100 mmHg to reducerisk of aortic dissection\nPacemaker management \u25a0 Ensure optimal pacemaker settings\nPostbypass TEE examination \u25a0 Assess regional LVwall motion abnormalities\u25a0 Assess global LVfunction\u25a0 Assess global RVfunction\u25a0 Monitor LVand RVchamber sizes to assessintravascular volume status\u25a0 Evaluate the ascending aorta to rule outdissection\nHemostasis \u25a0 Ensure absence of residual heparin\u25a0 Check point-of-care and laboratory tests ofcoagulation if bleeding persists\u25a0 Manage anemia, thrombocytopenia, andcoagulopathy if necessary\nChest closure \u25a0 Observe for RVcompression and dysfunction,coronary graft compromise, pacing wiredisplacement, or lung compression\nTransportto ICUandhandover\n\u25a0 Ensure optimal patient condition prior totransport\u25a0 Immediate availability of airway equipment,emergency drugs, and defibrillator on thetransport bed\u25a0 Continuous monitoring of ECG, SpO2\n, andintraarterial BP during transport\n\u25a0 Use of a formal protocol for communicationand transfer of technology during handover tothe ICUteam\nPostoperativeManagement1) Treatment of postoperativehypothermia: bairhugger andwarmfluids, increaseroom/ambient temperature. Treatment for postopshivering: warmpatient, meperidine;short-actingparalyticlikecisatracurium. Problemswithhypothermia: impairedwoundhealing, increasedinfectionrisk, impairedplatelet function, coagulopathy, increasedO2consumptionfromshivering, arrhythmias.2) Wouldneedtoassesstotal picturebeforedecidingtoextubate. Patient wouldneedtomeet standardextubationcriteria(awake, alert, abletoprotect airway, followingcommands, 5secondheadlift, SpO2>90%whileonFiO240%or lessandPEEP<5-8cmH2O; RSBI (RR/TV) <105breaths/min/L; TV>5ml/kg, VC>10L/min3) IncreaseinCVPbut decreaseinMAPdifferential: RVfailure, LVfailure, tamponade, PE,tensionPTX, cardiogenicshockfromMI, acuteMR. DifferentiateRVfailurevstamponadebyperformingabedsideTTE. If suspect tamponade, wouldcall for help, callfor CTsurgery, bringcodecart intoroom, increasefluids, get bigger access, administerepi (fast andfull heart, tight vessels). If patient unstable, haveCTsurgeryperformpericardiocentesisat thebedside. If morestable, transfer patient tointerventional CTsuitefor apericardial window.4) Oliguriacanbebrokendowninto:Prerenal: hypovolemia, hypotension, renal veinthrombosisRenal: ATN, interstitial nephritis, acuteglomerulonephritisPostrenal: obstructingstones, foleyobstruction(e.g., kinked, clot, debris, etc)5) Evaluatefor patient\u2019smental status, if widecomplexvsnarrowcomplextachycardia, therest of thepatient\u2019svitalsincludingBP. PVCswithBP120/70wouldtreat withlidocaineIV, betablocker. If BP70/40(ieHDunstable), wouldtreat withcardioversion. Possiblecausesincludeelectrolyteabnormalities(K, Mg, Ca), especiallywithmultiplerecentdosesof lasix(hypoK, hypoCa, hypoMg). For aK3.1, wouldadminister KCl 10mEqviacentral lineover onehour andrecheckserial labstoensureKiscorrecting.\nAdditional Topics1) Uterinerelaxation: nitroglycerineIV(50-100mcgat atime), terbutaline(0.25mgbolusatatime), Mg(4gover 20minutes), volatileor nitrousif anETTisinplace.Neonatal Resuscitation: epinephrine0.01mg/kg, 120breaths/minuteSodiumbicarbonateisNOTrecommendedasapart of NALS, not enoughevidenceshowingbenefit, it mayadverselyaffect myocardial andcerebral function2)3) Diagnosepheowithurinemetanephrines. Symptoms: headaches, orthostatichypotension, palpitations, sweating. Preop, start onlong-actingalpha-blocker likephenoxybenzamine(irreversible, non-specificalpha-blocker, longer-acting; 10mgBID)\nor doxazosin(reversible, specificalpha-1blocker, shorter-acting; start at 1mg/dayandtitrateupasneeded), titrateuntil BPcontrolled(120/80ishwhileseated), andthenworkinbeta-blockersnext.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 3,
+      "question_text": "Anesthetic Maintenance: Assume \"fast tracking\" with desire to extubate soon after surgery. What agents will you",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 4,
+      "question_text": "Discontinuation of CPB: After completion of CABG attempts to discontinue CPB results in mean arterial pressure of 50",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 5,
+      "question_text": "Hypothermia: One hour after admission to the ICU, the patient's core temperature is 34.5\u00b0C. Concerned? Why?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 6,
+      "question_text": "Post-op Sedation/Analgesia: 90 minutes after arrival in ICU, the nurse performs endotracheal suction. The patient",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 7,
+      "question_text": "Hemodynamic Deterioration: Between 4:00 and 8:00 AM on the first post-operative day, the CVP increases",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 8,
+      "question_text": "Oliguria: On post-operative day one, the patient's urine output has decreased to 15 ml/hour for 2 hours. What are the",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 9,
+      "question_text": "Dysrhythmia: On post-operative day 2, the patient suddenly develops irregular HR. How will you evaluate? Assume",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 10,
+      "question_text": "Obstetrics and neonatal resuscitation: A 22-year-old pregnant woman has a breech presentation. She is in the delivery",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 11,
+      "question_text": "Head trauma: A 22-year-old man is disoriented and agitated having been unconscious following a motorcycle accident.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "question_index": 12,
+      "question_text": "Pheochromocytoma: A 48 year old man with pheochromocytoma is admitted. You are consulted regarding",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 1,
+      "question_text": "Myasthenia Gravis: What are the anesthetic concerns with myasthenia gravis? How would you assess the adequacy of",
+      "answer_text": "Giventheseverityof her pulmonarydisease, I wouldrecommendregional if thepatientwascooperativeandmotivated.Benefitsof regional: avoidhemodynamiclabilityof aGA, avoidintubatingthispatientwithCOPD, patient isawakefor neurologicassessmentsduringcarotidcross-clamping.Risksof regional: mayfail andthusrequireconversiontoGAinacasewheretheairwayistoughtoaccess, needacooperative/motivatedpatient, LASTBenefitsof GA: controlledairwayRisksof GA: hemodynamiclability, intubateapatient withCOPD, needtodoassessmentsfor cerebral ischemia(e.g., EEG, cerebral oximetry) that arenot asspecificasanawakepatientAssumingareassuringairway, inducewithetomidate/rocuronium(want toavoidhemodynamiclabilitysouseetomidateinsteadof propofol). Maintainwithalowlipidsolubilityvolatile(e.g., desflurane) that canincreaseCBFwhilealsodecreasingCMRO2andashort-actingopioid(remifentanil) toallowfor rapidandsmoothemergence. I wouldwant tokeeptheMAPwithin20%of thebaselineMAP. Fentanyl infusionisnotappropriate, asfentanyl\u2019shighcontext-sensitivehalf-timewouldleadtoaprolongedemergence.2) Monitorsfor theadequacyof cerebral perfusion, intermsof specificity: awake>EEG>SSEP>transcranial doppler >cerebral oximetry>carotidstumppressures. DownsidestoEEGandSSEPsisthat theyrequireaspecializedtechnicianandareaffectedbymanyfactorssuchasanestheticagents, MAP, hypoxia. Transcranial doppler requiresspecial equipment that mayget inthewayof boththesurgeonandtheanesthesiologist,andthechangesinflowvelocitymayjust represent changesinthearterial andvenousdiameters. Stumppressuresareveryunreliable. If e/odecreasedperfusion, I wouldaskthesurgeontounclampandwouldraisetheMAPtoencourageimprovedcollateral flow.If that still failstoresult inadequateperfusion, I wouldaskthesurgeontoplaceashunt.3) Concerningfor carotidsinusmanipulationbythesurgeon, couldalsobeBezold-Jarischreflex, arrhythmia, ACS, anaphylaxis. Asksurgeontostopandtoinject local anesthesiaat thecarotidsinus. Withasystole, call for helpanddefibrillator, beginACLSwithcompressionsandepinephrine.4) STelevationsarelikely2/2plaquerupture, thoughthetimingof STchangescoincidingwithcrossclampapplicationisoftentimes2/2increasedafterloadcausingincreasedmyocardial workandO2consumptioncausingO2supply/demandimbalance. Asksurgeontoremovecross-clampandif theSTsegmentsremainelevated(whichislikelythecaseif thiswasaplaquerupture), administer nitro, betablocker, call cathlab. If STsegment elevationresolvedwithcross-clampremoval, unlikelytobeanacuteplaquerupture; administer ashort-acting, rapidlytitratableanti-HTNmedlikenitroglycerin,esmolol, or nicardipine. Preemptivelylower BPprior toreapplicationof thecrossclamp.ThePVCsarelikely2/2themyocardial O2supply/demandimbalance, soI wouldturnto100%FiO2, ensureadequateHct, andcontinuetakingstepstolower theafterloadsoastocorrect themyocardial O2supply/demand5) BarbituratelowersCMRO2whilealsoreducingCBFwhileisofluranewill lower CMRO2whileincreasingCBF. Target BPduringcrossclamptimeis20%abovebaselineMAP\nand, if necessary, higher thanthistoachieveadequatecerebral perfusionandtheavoidanceof ischemiaonwhichever neuromonitoringmodalityI hadselected.6) Theusual DDx: hypoxemia, hypercarbia, acidemia, hypothermia, residual anesthetic,residual neuromuscular blockade, electrolytederangement, hyper/hypoglycemia, DDxspecifictothispatient: myxedemacomafromuncontrolledhypothyroidism, stroke,intracerebral hemorrhage. Performneuroexam(lookfor signsof increasedICPwhichcansuggest ICH). Consider naloxoneandflumazenil. If other diagnoseshavebeenruledout andstill noreturnof mental status, consider aheadCTtor/ostrokeor ICH.\nAdditional Topics1) ObstetricanesthesiaDDx: PE, terbutaline-inducedpulmonaryedema, anxiety, labor epidural causinglossofproprioceptionand/or impairedrespiratorymusclefunction. Txfor pulmonaryedemacausedbyterbutaline: discontinueterbutaline, diurese, fluidrestrictionTerbutaline\na) Beta-1agonism(increasedHR, SV)andbeta-2agonism(peripheral vasodilationcausinghypotension, bronchial dilation)b) Hypotension, tachycardia, hypokalemia(2/2B2>B1properties), MI, arrhythmias, pulmedema, hyperglycemia->fetal hypoglycemiaFor theemergent C/S, determineif thereisenoughtimetoperformaneuraxial bytalkingwiththeOB. If theairwayisreassuring, morelikelytomovetowardsaGA, whereasamorechallenging/nonreassuringairwaywouldmakememorelikelytoattempt neuraxial.2) Air embolismDiagnosisestablishedbyprecordial doppler (millwheel murmur) andTEE(air seenintheheart). Maybeabletoaspirateair fromacentral line. Let thepatient, patient\u2019sfamily,andsurgeonknowwhat happened: \u201ctherewasanerror that occurred, wetookstepstocorrect it, andwearecontinuingtotreat thepatient for this. Wewill lookintowhathappenedandtakestepstorectifyingthissothat wedon\u2019t havethishappenagain.\u201d IwouldinformthePI committeeandanesthesiologydepartment chief or head.Rapidinfusiondevicevenousairsafetya) Ranger: gaspermeablemembranethatallowstheairtoescape, noautomaticairdetectionorshut-offmechanism.b) Level 1: ultrasounddetectorwclampthatautomaticallyclosesoffthepatientlinewhenairdetected, gaspermeablemembraneautomaticallyeliminatesthedetectedair3) NutritionLessriskof infectionwithenteral nutritionasopposedtoparenteral nutrition. Tx:lactulose, rituximab.\u25cf Nutrition:\u25cb Enteral vsparenteral: nodifferenceinmortality, decreasedinfxnwenteral\u25cb Whentobeginincriticallyill patient: beginenteral therapywithin48h, if enteralcontraindicated, beginparenteral at 1week\n\u25a0 CI toenteral: hemodynamicallyunstable2/2intravascular depletion, GIissues(N/V, SBO, illeus)",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 2,
+      "question_text": "Anemia: Are you surprised that this patient is anemic? Etiologies? Will you transfuse this patient prior to surgery?",
+      "answer_text": "I wouldplaceanepidural andslowlytitrateit toanadequatelevel of analgesia. Anepidural allowsfor morestableachievement of surgical analgesiawithout theabruptsympathectomyandacutedropinSVR/MAPthat wouldaccompanyasingle-shot spinal,andit wouldallowfor avoidanceof thehemodynamiclabilityandairwaymanagementthat wouldaccompanyGA. Thisisanon-emergent, nonurgent C/S, soI wouldslowlyraisealevel viaepidural after havingplacedanarterial line. Mygoal wouldbetominimizeadropinSVRsoastomaintaincoronaryperfusionpressure(CPP=MAP-LVEDP).3) AssumingI decidedtoproceedwithGA, I wouldadminister aspirationprophylaxisandanantisialogogue, placeapre-inductionarterial line, topicalizetheairway, performsuperior laryngeal andtranstracheal nerveblocks, andthenperformanawakeintubation(difficult intubation+full stomach=awakeintubation).If I decidedtoinduceandwasunabletovisualizethelarynx, I wouldwithdrawmylaryngoscope, call for difficult airwayequipment if it\u2019snot alreadyintheroom, insert anoral airway, andperformtwo-handedmaskventilationwithanassistant squeezingthebagfor me. If i wasunabletomaskventilatedespitethesemaneuvers, thenI wouldinsert anLMA. If I werenowtotryafiberopticintubation, i wouldgothroughthemouth(noreasontogothroughthenose, whichcancauseepistaxisthat canimpedevisualizationof theairwaystructureswiththescope). If I didinfact choosetodoanasalfiberopticandcausedepistaxis, I wouldsecuretheairway, administer oxymetazolinewithinthenarestoinducevasoconstriction, andconsider packingthenareswithgauzeor 4x4\u2019stohelptamponadethenosebleed.Epistaxisoccurwnasal intubation: suctionandsecureairwayorally, compressnosebysqueezingthealae, call foroxymetazolinespray(2sprays), ifstill bleedingpackwgauzeandcall forENT",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 3,
+      "question_text": "Hiatal Hernia: Of what importance is the history of hiatal hernia with reflux? Does the severity of reflux affect the risk",
+      "answer_text": "Sicklecell diseaseAnestheticimplicationsof sicklecell disease: avoidthingsthat canincreasesickling(eg,hypoxia, hypovolemia, acidemia, anemia, hypothermia). Thesepatientsoftenhaveah/opaincrises, sotheymayhavechronicpainsyndromesand/or maybetakingopioidsonaregular basis, therebymakingintra/postoperativepaincontrol morechallenging. Othermedical comorbiditiesassociatedwithsicklecell diseaseincludecardiomyopathy,pulmonaryhypertension, pulmonarydiseaseandcomplications(asthma, acutechestsyndrome), stroke, seizures, CKD. Oftentimes, thesepatientswill havereceivedmanytransfusionsinthepast, sotheymayhavedevelopedantibodies, makingit moredifficulttoobtaincrossmatchedblood.For thispatient, assumingthechildiscooperativeandcalm, i wouldrecommendaregional anesthetic(eg, supraclavicular block) tominimizehemodynamicandpulmonaryperturbationsthat wouldaccompanyaGA. I wouldNOTwant atourniquet tobeusedbecauseit wouldleadtotheaccumulationof cold, deoxygenated, acidemicbloodintheisolatedextremitythat, whenreturnedtothesystemiccirculationafter tourniquet release,canprecipitateasicklingevent.Sicklecell TRAITisabenigncarrier conditionthat isnot associatedwithanincreasedmortalitycomparedtothegeneral population, andit isnot associatedwiththesamecomplicationsandphenomenaassicklecell disease.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 4,
+      "question_text": "Selection of Monitors: Is train-of-four monitoring reliable in myasthenia? Would it indicate the need/non-need for a",
+      "answer_text": "Beforedelivery, i wouldusenitrousoxidewithlowdosevolatilefor maintenance(minimizetheuterinerelaxationthat accompaniesvolatilebyusingvolatileat lowconcentrations). I wouldnot choosetorunanitrous-opioid-musclerelaxant anesthetic,astheopioidcouldcrosstheplacentaandleadtorespiratorydepressionintheneonate.Also, giventhat nitrousoxidehasaMACof 105%, I wouldnot runamaintenanceanestheticinwhichnitrousistheonlyhypnoticagent (intandemwiththeparalysis, theremaybeachancefor intraoperativeawareness). Whenchoosingavolatile, I wouldprefertouseanagent that hasalower blood:gassolubilityinthismorbidlyobesepatient (i.e.,desflurane).5) DDx: hemorrhage(2/2uterineatonyor surgical bleeding), PE, AFE, MI, LVOTobstructionfromHCM(2/2autotransfusionandcatecholaminesurgerythat occur withdelivery, leadingtoworseningLVOTobstruction), PTX(if acentral linewasplaced),over-anesthetized, arterial linetransducer fell totheground. Differentiatebasedonthepresenceof other clinical signs/features(eg, excessivebleedinginthefield=hemorrhage, poor uterinetone=atony, hypoxemiawithAMS, hypotension,cardiopulmonaryarrest, hemorrhageandDIC=AFE, decreasedbreathsoundsonthesidewiththeline=PTX). I wouldlookat myEKG, listentothelungs, observetheskinfor signsof apetechial rash, performaTTE/TEEtoevaluatefor LVOTobstructionwith\nSAM, wall motionabnormalities. Tx: dependsonthepathology(givebloodforhemorrhage, uterotonicsfor atony, supportivemeasureswithIVFandpressorsforPE/AFE, standardACSstuff for anMI, beta-blocker anddefibrilator for LVOTobstruction/HCM, 14gIVinsertedin2ndintercostal spaceinthemidclavicular linefortensionPTX).6) NeonatewithHR60andthickmeconium=intubation, suctionendotracheal tubebeforeinitiatingPPV. Effectsof meconiumaspiration: hypoxemia, respiratorydistress,intubation, persistent pulmonaryhypertensionof thenewborn. If HRremains60bpm,giveepinephrine0.01mg/kgviaumbilical vein.\nAdditional Topics1) ICUconsultPaO2/FiO2ratio50- severeARDS. PCWP>18suggestscardiogenicsource, whereaslower PCWPsuggestsARDS. AssumingthisisARDS, atrial of HFNCcanbeattemptedif thepatient ishemodynamicallystable, alert, andresponsive. However, giventhat thispatient isbeingresuscitatedfor septicshock, heislikelytorequiremechanicalventilation. I wouldusecontrolledventilationwithARDSNETprotocolARDSNET\u25cf TV6ml/kgideal bodyweight\u25cf Adjust RRtoachieveadequateMV(permissivehypercapnia: purposelyallowforalveolar hypoventilationinorder tominimizethecomplicationsof alveolaroverdistension, whichleadstoventilator-associatedlunginjury)\u25cf TitratetheFiO2toaSpO288-95%(or aPaO255-80mmHg)\u25cf Plateaupressuregoal \u226430cmH2O\u25cf IncreasePEEPwithincreasingFiO2requirements. Nodefinedoptimal approachtosettingPEEP2) Regional anesthesiaPremedicationwithmidazolamcanhelpraisetheseizurethreshold. For a60minuteprocedure, I woulduseanintermediate-durationlocal anesthetic, e.g., lidocaine. I wouldavoidaddingepinephrinetothelidocaine, asthesystemicadministrationof theepinephrinecanleadtotachycardiaandHTNwhichcancauseMI andstroke(thepurposeof addingepinephrinetolocal anestheticwhendoinganerveblockor infiltrationistolimit vascular uptake, whichisabit of amoot point sinceweareintentionallyinjectingthelocal intravascularlyfor aBier block). If thetourniquet accidentallydeflates, Iwouldimmediatelyreinflateit, assessthepatient andhisvital signs/EKG, call forintralipid. If thepatient ishavingagrandmal seizure, I wouldcall for helpandadefibrillator, givemidazolamtobreaktheseizure, administer intralipid1.5ml/kgbolusfollowedby0.25ml/kg/mininfusion. If thepatient isnot breathingspontaneously, I wouldsupport theairwaywithPPVandconsider intubationif theseizurehasn\u2019t abatedand/orspontaneousrespirationhasnot returned. If patient nowinVFib, I woulddefibrillate(120Jbiphasic), begincompressions, giveepinephrine(dosefor LASTis1mcg/kg), securetheairway.\u25cf Bierblock\n\u25cb Indication: 30-45minprocedureonhand/forearm\u25cb MOA: local diffusesfromveinsintosurroundingperipheral nerves->blocksvasanervosa->conductionblock(anesthesia)\u25cb Technique: placementofanIVcatheterinthehand, exsanguinationofthearm(armisraisedforonetotwominutestoallowpassiveexsanguination. AnEsmarchbandageiswrappedtightly, inanoverlappingspiral, fromthefingerstotheaxilla), inflationofadoublepneumatictourniquetplacedhighontheupperarm(distal tourniquetisraisedto250mmHg, or100mmHgabovesystolicbloodpressure, followedbytheproximaltourniquet. Theradial arteryshouldbepalpatedtoconfirmlackofapulse. Thedistalcuffisreleased, andtheEsmarchbandageisremoved), andtheninjectionoflocalanesthetic(50ml 0.5%lidoover90seconds), IVremoved\u25cb Onset/Offset: almostimmediately\u25cb Troubleshooting\u25a0 Tourniquetpain: (oftenat25to30minutesafterinflation, 2/2 unmyelinatedcfibers), thealternate(distal)cuffisinflated, checkedforfunctionality, andthenthefirstcuffisdeflated. Thisusuallyprovides15to30minutesofcomfortbeforetourniquetpainrecurs(asthedistal tourniquetisnotinflatedoveranareathatwaspreviouslyuncuffedandthereforeisanesthetized).\u25a0 Surgeonfinishesearly(<30mins): tourniquetshouldbeleftinflatedafterinjectionoflocal anesthesiaforatleast20minutes, thendogradualdeflation/reinflationtechniquemaybeused(eg, 10seconddeflation,followedby1minutereinflation), toprolongthewashoutofLA",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 5,
+      "question_text": "Anesthetic Technique: Would regional anesthesia be an acceptable technique for this patient? Why/why not? Discuss",
+      "answer_text": "I wouldliketoavoidpre-medicatingthispatient withanyhypnoticsor sedatives(eg,midazolam, fentanyl) prior todelivery2/2concernfor fetal transfer. Placental transfer ofmedicationscouldleadtorespiratorydepressioninthefetus. Withher morbidobesity,shelikelyhasundiagnosedOSAandisconsequentlymoresensitivetotherespiratorydepressant effectsof suchmedications. I wouldadminister aspirationprophylaxismedicationslikesodiumcitrateandfamotidine.\nIntraoperativeManagement1) I wouldplaceanarterial linefor closer monitoringof thepatient\u2019sBP, but I wouldnotplaceaPAcatheter becauseI donot thinktherisks(eg, PArupture, CHBandotherarrhythmias) outweighthebenefits, astheinformationI obtainfromaPAcatheterwouldn\u2019t necessarilyalter mymanagement. I wouldconsider havingabedsideTTEavailable.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 6,
+      "question_text": "Anesthetic maintenance: The patient prefers to be asleep. You respond? Explain. How would you induce general",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 7,
+      "question_text": "Bleeding: During pelvic dissection, the patient begins to bleed excessively. How will you determine when to transfuse?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 8,
+      "question_text": "Pulse Oximeter: During the procedure the oximeter alarms and you note a saturation of 75 % . Discuss your approach.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 9,
+      "question_text": "Extubation: How will you evaluate suitability for extubation in this patient? If you used a non-depolarizing relaxant,",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 10,
+      "question_text": "Pediatrics - cleft palate repair: Healthy 18-month-old 15 kg boy for cleft palate repair. Venous access mandatory pre\u00ad",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 4,
+      "session_id": 2,
+      "question_index": 11,
+      "question_text": "Regional anesthesia and COPD: A SO-year-old man with COPD and a productive cough is scheduled for emergency",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 1,
+      "question_text": "Anesthetic Choice: Your colleague, who provided general anesthesia previously, recommends regional anesthesia",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 2,
+      "question_text": "Induction: Is a rapid sequence induction appropriate? Why/why not? If yes, would ketamine be preferable to",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 3,
+      "question_text": "General Anesthesia: Surgery is expected to take less than one hour. Would a very insoluble inhaled agent be preferable",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 4,
+      "question_text": "Ventilation: Peak airway pressures are 50 mmHg shortly after intubation. Could obesity cause this? Other causes?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 5,
+      "question_text": "Pneumonia: Problem persists and purulent sputum is noted in the tracheal tube. Temperature is 103\u00b0F. DDx?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 6,
+      "question_text": "Extubation: Problem clears. What will be your criteria for extubation? Same for all patients? Altered by obesity? By",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 7,
+      "question_text": "Oliguria: Urine output decreases to 120 ml over the past 8 hours. BUN =84, Creatinine = 7.2. DDx? Manage?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 8,
+      "question_text": "Nausea and Vomiting: Assume patient is satisfactorily extubated 30 hours after surgery and develops persistent nausea",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 9,
+      "question_text": "Tamponade: A 38-year-old woman is brought to OR for pericardia! window and possible pericardectomy to treat a",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 10,
+      "question_text": "Obstetrical anesthesia: A 27-year-old GI PO at term requires emergency C-delivery for placental abruption and fetal",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 1,
+      "question_index": 11,
+      "question_text": "Acute pain: You are consulted to provide pain relief for a 78-year-old man who fell and broke 4 ribs. He is now",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 1,
+      "question_text": "Further Workup: What additional information will you insist on prior to anesthesia? Why? What minimal Jab studies",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 2,
+      "question_text": "Hypertension: Why is blood pressure elevated? Will you lower it prior to anesthetic induction? If yes, how? To what",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 3,
+      "question_text": "Airway Examination: Child is uncooperative. How will you assess? How would an anticipated difficult airway change",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 4,
+      "question_text": "Head Injury: How will you assess, if at all, extent of head injury? Can you determine likelihood and magnitude of",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 5,
+      "question_text": "Anesthetic Induction: Assume no anticipated airway difficulty. Is sedation alone preferable for CT scan? Why/why",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 6,
+      "question_text": "Increasing ICP: Brain is bulging. How manage? Why? At what level would you control the PaCO2? Why? Will you",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 7,
+      "question_text": "Bradycardia: During drainage of the hematoma, P decreases to 40. DDx? Rx?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 8,
+      "question_text": "Extubation: Should this patient be extubated in the OR at the end of the procedure? Why/why not? Special",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 9,
+      "question_text": "Renal transplantation: A 42-year-old man with chronic renal failure secondary to Jong standing hypertension is to",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 10,
+      "question_text": "Anaphylactoid reaction: A 35-year-old woman received a lumbar epidural for total knee reconstruction. The orthopedic",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 5,
+      "session_id": 2,
+      "question_index": 11,
+      "question_text": "Thyrotoxicosis: A 30-year-old woman with untreated thyrotoxicosis requires emergency surgery for an open tibial",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 1,
+      "question_text": "Monitoring: How will you monitor CNS during procedure, if at all? How reliable are monitors of electrical activity?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 2,
+      "question_text": "Anesthetic Technique: Would you select a regional or general anesthetic? Why? What regional technique(s) are",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 3,
+      "question_text": "General Anesthesia: All involved agree to do general anesthesia. Would \"high dose opioid\" be best? Why/why not?",
+      "answer_text": "ORenvironment\u25cf Wastegasscavengers\u25cb PreventORpollutionbydisposingofgasesthathavebeenventedbybreathingcircuit\n\u25a0 collectionandremoval ofventedanestheticgasesfromtheOR\u25cb AmountoftracegasallowedinOR: N20=25ppm, volatile=2PPM(0.5PPMforthevolatileifN20usedwit)\u25cb APLandspill valveconnectedtoscavenginginterfacewhichisconnectedtohospital vacuumsystemwhichdisposesofwaste(opensystem->connectedtotheatmosphere)\u25cb Components\u25a0 Gas collection assembly, (tubes connected to APL and ventrelief valve)\u25a0 Transfer tubing (19 or 30 mm, sometimes yellowcolor-coded)\u25a0 Scavenging interface\u25a0 Gas disposal tubing (carries gas frominterface to disposalassembly)\u25a0 Gas disposal assembly (active or passive - active mostcommon, uses the hospital suction system)\u25a0 Canbeeitheractiveorpassive.activesystemrequireswall orpipelinesuctiontoevacuatethewastegas. Apassivesystemreliesontheupstreamflowofgascomingoutofthemachinetopassivelyflowoutofthesystem, similartohowwaterflowsthroughandoutofagardenhose\u25a0 Explaindessicatorsystem: inspiratoryandexpiratoryvalvesonlyallowunidirectional movementofgasthuspreventrebreathingofC02andvolatiles, thedessicatorhelpsremoveC02andvolatilesfromtheclosedcircuit\u25a0 Scavengersystemfunctionshouldbecheckeddailytoensurethatthesuctionflowsettingisadequateandthepositiveandnegativepressurereliefmechanismsarefunctioningproperly.\u25a0 Leakagefromthescavengersystemisdifficulttodetect,buttheremaybeasmellofanestheticagentsintheroom.Lookforevidencethatthescavengersystemisnotconnectedproperlyorthatthewasteanestheticgasvacuumisdisconnectedorturnedtoolow. Conversely, aloudbackgroundhissingfromthescavengersystemindicatesthatthevacuumisturnedtoohigh.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 4,
+      "question_text": "Cerebral Ischemia: Will you employ any prophylactic measures to minimize cerebral ischemia? If so, which? Why? Is",
+      "answer_text": "Tx: evaluatepatient, askabout newchest painor dyspnea, 12-leadEKG, ASA,nitroglycerin, beta-blocker, statin, supplemental O2. Get troponinandCK-MB. Correctanyanemia, hypovolemia, hypoxemia. PerformbedsideTTEtoassessfor anywallmotionabnormalities. Donot gothroughwiththetransfer; continuemonitoringthepatient intheICU, trendtroponin/CK-MB, consider cathlabif optimizingHct,oxygenation, andvolumestatusdonot resolvetheSTchangesand/or wall motionabnormalitiesfoundonbedsideTTE. Canconsider transferringwhendowntrendingtroponin/CK-MBor elsetransfer toacardiacunit for monitoringthere. If BP90/50, thechest paincanbe2/2anemia/hypovolemiacausingimpairedCPPvs. ACScausingdecreasedCO2/2LVdysfunction; wouldwant toevaluatethepatient. If ACS, call cathlab, start heparingtt, doall theother thingsmentionedearlier (e.g., ASA, betablocker,etc).Troponinbeginstorisearound2-3hoursandcanremainelevatedfor upto10-14days,whileCK-MBbeginstoriseat 4-6hoursandreturnstonormal levelsat 2-3days. Thus,CK-MBcanbeusedtodiagnoseanewMI if levelsdropbeforestartingtoriseagain,whiletroponincanhelpdiagnoseamissed/lessacuteMI.5) Traumapatient inabloody, hemodynamicallyunstablesurgery=highriskforintraoperativeawareness. I wouldtalkwiththepatient todetermineif thisistrulyintraoperativeawarenessvs. beingawakeat theendwithextubation. Thisisn\u2019tmalpractice, but rather aknownriskwhentakingcareof thesekindsof patients. Stepscouldbetakentoreducetherisk(e.g., benzos, BISmonitor), but giventhegravityof theintraoperativebleeding, therewereother aspectsof thispatient\u2019scare(e.g.,hemodynamicsupport, transfusion, etc) that tookapriority. If thiswasindeedatrueepisodeof intraoperativeawareness, I wouldcomfort thepatient, offer toarrangeameetingwithapsychiatrist for possiblePTSD.6) Jaundice: thecausesof jaundicecanasclassifiedasprehepatic, hepatic, andposthepatic.Prehepatic: increasedproductionof bilirubinfromhemolysisor resorptionof ahematoma.Hepatic: hepaticinjuryfromischemia; hepatotoxicdrugsincludingabx(tetracycline,isoniazid, rifampin, sulfonamides), ASA, acetaminophen, anabolicsteroids, oralcontraceptives, alcohol; intrinsicdisorders(Gilberts\u2019 ismost common, Dubin-Johnsonproducesaconjugatedhyperbilirubinemia, Crigler-Najjar isfatal inchildhood); infections(e.g., hepatitis); TPN; sepsis; critical illness; andhepaticcongestion.Posthepatic: mechanical obstructionssuchasastone(acalculouscholecystitisisanacutenecroinflammatorydiseaseof thegallbladder that most oftenoccursincriticallyillpatients), stricture, or atresia.Themost useful waytomanagejaundiceistoobtainathoroughhistoryandphysicalexam, concentratingonperioperativeevents(suchashypotensionor transfusions),recent medications, andphysical findings(suchashepatomegalyor signsofcoagulopathy).Important labsmayincludeLFTs(includingconjugatedandunconjugatedbilirubin),alkalinephosphatase(for obstruction), aH/H(for hemolysis), andpossiblyabdominal\nultrasonagraphy.Unlikelyrelatedtomyanestheticasthereislittlehepaticdegradation/metabolismofmoderndayvolatileanesthetics. Couldbetransfusion-related. Expectedclinical course:spontaneousresolutionwithtime. Jaundicewill usuallyresolveover thecourseof weekstomonthsafter theunderlyingcauseshavebeenresolved.\nAdditional Topics1) AmnioticfluidembolusAFEshouldbesuspectedinapregnant or postpartumwomanwhodevelopsabruptonset hypotension, hypoxemia, cardiovascular compromise, hemorrhageinassociationwithdisseminatedintravascular coagulation, and/or acuteneurologicchanges. AFESisaclinical diagnosisof exclusionthat isbasedupontheconstellationof classicclinicalfindingsandtheexclusionof other causesof thepresentingsymptoms. WithanAFE,hypotensionoccurs2/2pulmonaryvessel vasoconstrictionwhichcancauseRVstrain/failure, leadingtodecreasedLVoutput. Hypotensioncanalsobe2/2hemorrhageandDIC. Doserial ROTEMstohelpguidetransfusiontherapy. DoNOTgiveantifibrinolyticslikeAmicar toapatient inDIC, asgivinganantifibrinolyticcanleadtoincreasedriskof thrombosis. For thefibrinolysisseenonlabtests, givefibrinogen(cryo,FFP, etc) instead.2) ECTandneurolepticmalignant syndromeNMSa) Unknowncause; believedtobe2/2depletionofdopamineinbasal gangliab) Causedbybothwithdrawal orincreaseddosesofneuroleptic(dopaminergic)medsi) First-generationantipsychotics(e.g., haloperidol, fluphenazine),second-generationantipsychotics(e.g., clozapine, risperidone, olanzapine),otherdopaminergicantiemeticmeds(prochlorperazine, metoclopramide,promethazine)ii) Neuroleptic: metoclopramide, haloperidol, chlorpromazine, risperidonec) S/x's: usuallyevolveoveraperiodof1-3daysi) Mental statuschangeusuallyoccursfirst(agitateddelirium, confusion, stupor,coma, encephalopathy)ii) feveristhedefiningsymptomsaccordingtomanydiagnosticcriteria,iii) autonomicinstability(tachy, labilebp, diaphoresis, tachypnea)iv) Alsocanhavegeneralizedmusclerigidity, rhabdod) NMSvs. SerotoninSyndromei) NMSdevelopsoverdaystoweeks, whileSSisusuallyina24hourperiodii) Shivering, hyperreflexia, ataxiaareoftenseeninNMSbutnotSSiii) HyperthermiausuallymoresevereinNMSvs. SSiv) Nausea, vomiting, diarrheararelyseeninNMSbutarecommonprodromesinSSv) NMSoftenhassluggishneuromuscularresponse(cogwheel rigidity)whileSSischaracterizedbyneuromuscularhyperactivity(hyperreflexia, myoclonus,tremor)e) Labs\ni) Metabolicacidosis, elevatedCK, electrolytederangements(hyperK, hypoCa,hypoMg)f) T/x:i) Firstline: d/coffendingagentandsupportivecare(ICU, treathyperthermia,correctelectrolytes, treatarrhythmias, treatorganfailurelikeAKI andhepaticfailure, etc)ii) Secondline(1-2dayswithoutimprovement): benzos(diazepam)+dantrolene(2.5mg/kg)iii) Thirdlineadddopamineagonist: amantadine(dopaminergicandanticholinergiceffects)or bromocriptine(dopamineagonist)iv) 4thline: ECT(1) DangerofincreasedriskforcardiacarrhythmiasinapatientwithNMSwhoundergoesECTg) PatientsrestartedonneurolepticagentsmayormaynothavearecurrentNMSepisode.Ifneurolepticmedicationisrequired, riskmaybeminimizedbywaitingatleast2weeks,usingalowerstartingdose, andcarefullymonitoringfors/sofNMS. Noguaranteethatthiswill preventarecurrenceofNMSMethohexital lowerstheseizurethreshold(unlikemostotheranestheticinductionagents). TheepisodeofNMSmayraiseconcernswithusingsuccinylcholineinthesamepatient, asthereisafearthatthepatientmayalsohaveMH. However, therehasbeennodocumentedlinkbetweenMHandNMSsusceptibility. Hyperventilationleadstocerebral hypocarbiawhichincreasesseizureintensity. AvoiddiscontinuingthemidazolampriortoECTifpossiblebecause, whilemidazolamraisesseizurethresholdandmakestheECTpotentiallylesseffective, themidazolamisneededfortreatmentofthepotentiallyfatal NMS.SerotoninSyndrome\u25cf Tofulfill theHunter Criteria, apatient must havetakenaserotonergicagent andmeet ONEof thefollowingconditions:\u25cb Spontaneousclonus\u25cb InducibleclonusPLUSagitationor diaphoresis\u25cb Ocular clonusPLUSagitationor diaphoresis\u25cb Tremor PLUShyperreflexia\u25cb HypertoniaPLUStemperatureabove38\u00baCPLUSocular clonusorinducibleclonus\u25cf Timecourseisusuallyover 24hours(whereasNMSisover daystoweeks)\u25cf Tx: d/coffendingagent, supportivecare, sedation(benzos), treat hyperthermiaandautonomicinstability, cyproheptadine(H1receptor antagonist withnonspecific5-HT1Aand5-HT2Aserotonergicantagonismandweakanticholinergicactivity",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 5,
+      "question_text": "Somnolence: In PACU patient is unresponsive to verbal stimulation, but awakens in response to painful stimulation.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 6,
+      "question_text": "Hypertension: BP is 180/100. Treat? Why/why not? If yes, how? Endpoint? If not, at what point would you treat",
+      "answer_text": "DDxfor theheadache: cerebral hyperpefusionsyndrome, intracranial hemorrhage.Evaluatepatient\u2019sneuroexam, mental status, lookfor signsof elevatedICP(papilledema, n/v). DiagnosewithaNCHCT, txwithBPcontrol. Agemakespeoplemoresensitivetotherespiratorydepressant effectsof opioids. Postopanalgesia: superficialcervical plexusblock, acetaminophen, multimodal analgesia. WouldavoidNSAIDsgiventheriskfor apostopbleed. Wouldbecareful withopioids, ascarotidsurgerycandisruptthecarotidchemoreceptor-derivedhyperventilationasaresponsetohyoxemia.\nAdditional Topics1) NeedCBCandcoagsinthispre-eclampticwoman. Withthelabsback, i woulddoaGAwithRSI.2) Interscalenehasulnar sparing, whichmaybeaproblemif somesurgical incisionsexpandtotheulnar side. Axillaryblockrequiresblockingthemusculocutaneousaswell,andif it\u2019smissed, thenthesurgical sitewouldbeinadequatelyanesthetized. Ideally, iwouldperformasupraclavicular blockonthispatient. I wouldcombinemepivacaine(faster onset) withalonger actinglocal anestheticlikebupivacaine, or elsei wouldusestraight-upbupivacaineandjust askthesurgeontowait longer beforemakingincisiontoallowthebupivacainetimetokickin. Tourniquet paincanbepreventedbyperforminganintercostobrachial blockprior totourniquet goingup. Totreat thispatient, i canaskthesurgeonif hecandeflatethetourniquet toallowmetoperformtheblock, or elsei wouldconvert toGA(can\u2019t sedatethispatient whohasafull stomach).3) F",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 7,
+      "question_text": "Hematoma: Nurse reports that right neck appears to be swelling. How respond? Any lab tests indicated? Which?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 8,
+      "question_text": "Hyperglycemia: Assume no hematoma. Serum glucose is 300 mg/di. How would you manage? Why? What is goal?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 9,
+      "question_text": "Myocardial Ischemia: Inverted T-waves (new finding) are observed on post-op ECG. Significance? Can this be a",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 10,
+      "question_text": "Obstetrical anesthesia: An 18-year-old woman presents at 31 weeks gestation with jaundice and abnormal liver function",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 11,
+      "question_text": "Wrist fracture: A 27-year-old man requires open reduction of a radius fracture which has compromised blood flow to",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 1,
+      "question_index": 12,
+      "question_text": "Trauma surgery: A 19-year-old 110 kg 6' 5\" football player is in the emergency room following a motor vehicle",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 1,
+      "question_text": "COPD: How will you evaluate this patient's respiratory status? Different for emergent vs. elective surgery? Which",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 2,
+      "question_text": "Blood Products: There is no blood prepared. Will you proceed with anesthesia? Why/why not? Is type and screen",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 3,
+      "question_text": "Monitors: Is an arterial catheter necessary? Why/why not? How will you assess blood volume status? Rationale. Is",
+      "answer_text": "Carotidendarterectomy",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 4,
+      "question_text": "Anesthetic Technique: Surgery is to be performed in lateral position. Would you favor a regional or general anesthetic",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 5,
+      "question_text": "Regional Anesthetic: If an epidural is selected what agent would you use? Why? Would you add epinephrine?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 6,
+      "question_text": "Respiratory Depression: Epidural is functioning well with a T6 level. After you sedate patient, oxygen saturation falls to",
+      "answer_text": "Acaudal couldbeconsideredfor postopanalgesia. Risks: infection, bleeding,hematoma, inadvertent intrathecal injection(highspinal), inadvertent intravascularinjection(LAST), rectal perforation. Benefits: improvedpostoperativeanalgesia,reductioninpainmedsrequiredandtheir concomitant sideeffects. Recent viral infectionisnot acontraindicationtoacaudal injection.Caudal epidural space: lowest portionof theepidural systemandisenteredthroughthesacral hiatus. Thesacral hiatusisadefect inthelower part of theposterior wall of thesacrumformedbythefailureof thelaminaeof S5and/or S4tomeet andfuseinthemidline. Thereisaconsiderablevariationintheanatomyof thetissuesnear thesacralhiatus, inparticular, thebonysacrum. Thesacral canal isacontinuationof thelumbarspinal canal whichterminatesat thesacral hiatus. Thevolumeof thesacral canal canvarygreatlybetweenadults.\nNewborn: dural sacendsat S3, spinal cord(conusmedullaris) endsat L3Adult: dural sacendsat S2, spinal cord(conusmedullaris) endsat L2Changesinthedural sac/conuslevel occur duringthefirst year of life.\nIf subarachnoid(intrathecal) injectionoccurs, thiswill likelyprecipitateahighspinal, soiwouldimmediatelysupport thecirculation(fluids, pressors) andairway(intubate) asneeded.\nAdditional Topics1) IncreasedICPIf theincreaseinBPwasalsowithanincreaseinHR, thiswouldsuggest aninadequatedepthof anesthesiafor theDLandintubation, soI wouldadminister agentslikepropofolor remifentanil todeepentheplaneof anesthesia. If theincreaseinBPwasmet withadropinHR, thiswouldsuggest apossibleincreaseinICPleadingtoaCushing\u2019sreflex,soI wouldnot necessarilydroptheBP, astheincreaseinBPoccurredastomaintainCPP. Instead, I wouldalert thesurgeonsabout thispossibleincreaseinICPandtakestepstowardsrectifyingit (eg, elevateHOB, hyperventilate, mannitol 1-1.5g/kg,hypertonicsaline, furosemide0.5-1mg/kg). I wouldrather not useavolatileanestheticfor themaintenanceof GAinthispatient, asthevolatilesall causeanincreaseinCBFandconsequentlyanincreaseinICP. I wouldprefer tousepropofol, whichlowersCBFandICP. Anestheticimplicationsof increasedICP: dysfunctional cerebral autoregulationandadecreasedCPPfor anygivenMAP, soI wouldhavehigher MAPgoals. Monitoringof ICPpostopwouldbehelpful toallowfor quickinterventionif therewerepostopedemaor bleedingwhichrequiredre-operation, aswell asallowingfor amoreaccuratecalculationof theCPP.2) ChronicpainDoathoroughhistoryandphysical exam, workupthetypeof pain(neuropathicvsvisceral). Ensuremultimodal analgesia: acetaminophen, NSAIDs, NMDAantagonism(methadone), gabapentin/pregabalin(neuropathicpain), intrathecal morphinepump.3) Hypothyroidism\n\u25cb CanmissdoseofthyroxineasT4hashalflifeof8days\u25cb DecreasedCO, restrictivelungdz, hypothermic(decreasedbasal metabolicrate),decreaseddrugbiotransformation(prolonganesthetics), hyponatremia(retainfreewater)\u25cb Increasedriskofapnea(sensitivetomeds), diminishedCO+bluntedbaroreceptorreflexes+diminishedintravascularvolume->sensitivetoinduction(hypotensive)\u25a0 Ifhypotensionrefractoryconsidercoexistentadrenal suppression(givestressdoseofsteroids)\n\u25cf\n\u25cf AnestforkidwURI: Proceedifnosecretions/fever/wheezing\u25cb Increasedriskforperioperativerespiratoryadverseevents(PRAEs): laryngospasm,bronchospasm, oxygendesaturation, cough, andbreath-holding6weeksaftersymptomresolution\u25a0 Pedsbronchospasmtreatment: 1\u201310mcg/Kgepi\u25a0 Approach\u25a0 ActiveorrecentURI duringpreopscreening: delayelectivesurgery2-4weeksaftersymptomssubside\u25a0 RecentURI, nocurrentsymptoms<2weeks: onlypostponeifyounger, higherrisksurgery, orhigherriskpatient>2weeks: proceed\u25cf ActiveURI dayofelectivesurgery\u25cb Ifjustrhinorrheaorminorsymptoms: proceed\u25cb Fever(38), wetcough, orclearlyill->2-4weeks\u25a0 Ifsurgeryurgent: Premedication: albuterol: 2-8puffs, glyco(4mcg/kg,anti-sialogue)\u25a0 GA: Facemask>LMA>ETT\u25a0 ForinfantsuseETT\u25a0",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 7,
+      "question_text": "Hypotension: After intubation and ventilation, the patient becomes hypotensive. Why? How would you determine",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 8,
+      "question_text": "Dysrhythmia: As surgeon is closing skin incision, the patient's pulse rate suddenly rises from 88 to 150. What would",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 9,
+      "question_text": "Pediatrics: A 3-year-old, 15 kg boy with Downs' syndrome and a repaired ASD/VSD now on digoxin and furosemide,",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 6,
+      "session_id": 2,
+      "question_index": 10,
+      "question_text": "General Surgical Anesthesia: A 62-year-old morbidly obese woman is to undergo laparoscopic cholecystectomy. She",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 1,
+      "question_text": "Anesthetic Technique: Would you consider a regional anesthetic in this patient? Why/why not? Interpreter cannot gain",
+      "answer_text": "I wouldevaluatethetidal volumes, ABG. DDxcanincludepain, residual neuromuscularblockade, residual volatile(volatilescauseanincreaseinRRanddecreaseinTV), PE,inadequateminuteventilation, andrarethingsthat increaseCO2withcompensatoryincreaseinMV(MH, NMS, serotoninsyndrome, thyroidstorm).2) Administer anantiemeticfromadifferent class, suchasondansetron(5-HT3antagonist),aprepitant (NK1antagonist). Prochlorperazineisanother typeof dopamineantagonist,soit maynot bethefirst-linetreatment. Hazardsof additional dosesof droperidol includeprolongedQTc, sedation, extrapyramidal symptoms(akathisia, Parkinsonism, tardivedyskinesiawithlong-termuse). ProphylacticmeasuresincludestandardPONVthings(scopoalaminetransdermal patch, dexamethasone, TIVA, avoidN2O) aswell asaprepitant (neurokinin1(NK1) receptor antagonist)3) Preopplacement of anadductor canal catheter couldhelpwithpostoppain. Multimodalanalgesiawithacetaminophen, NSAID. Wouldwant tominimizesystemicopioidsasthismorbidlyobesepatient withlikelyundiagnosedOSAislikelymoresensitivetotherespiratorydepressant effectsof opioids.4) Jaundice: thecausesof jaundicecanasclassifiedasprehepatic, hepatic, andposthepatic.Prehepatic: increasedproductionof bilirubinfromhemolysisor absorptionof ahematoma.Hepatic: hepaticinjuryfromischemia; hepatotoxicdrugsincludingabx(tetracycline, isoniazid, rifampin, sulfonamides), ASA, acetaminophen, anabolicsteroids,oral contraceptives, alcohol; intrinsicdisorders(Gilberts\u2019 ismost common,Dubin-Johnsonproducesaconjugatedhyperbilirubinemia, Crigler-Najjar isfatal inchildhood); infections(e.g., hepatitis); TPN; sepsis; critical illness; andhepaticcongestion.Posthepatic: mechanical obstructionssuchasastone(acalculouscholecystitisisanacutenecroinflammatorydiseaseof thegallbladder that most oftenoccursincriticallyill patients), stricture, or atresia.Themost useful waytomanagejaundiceistoobtainathoroughhistoryandphysicalexam, concentratingonperioperativeevents(suchashypotensionor transfusions),recent medications, andphysical findings(suchashepatomegalyor signsofcoagulopathy).Important labsmayincludeLFTs(includingconjugatedandunconjugatedbilirubin),alkalinephosphatase(for obstruction), aH/H(for hemolysis), LDH, haptoglobin,reticulocytecount, andpossiblyabdominal ultrasonography.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 2,
+      "question_text": "Intra-operative Ventilation: Following a difficult intubation using a fiberoptic laryngoscope, the airway pressure rises to",
+      "answer_text": "F3) Cancer painmanagement inpatient withh/osubstanceabuseUpondischarge, givepatient weeklyprescriptionsandhavere-examinationsbythesurgeontoensurethat thepatient isnot abusingor divertingthenarcotics. Tolerance:increasingdosesneededfor similar effect. Dependence: thephysiologicandpsychologicrelianceonopioidstoprevent withdrawalInptswhighriskforabuse(h/odruguse, anxiety, depression, chronicpain, homeopioiduse)d/cpatientwithlimitedsupplyofopioids, educateaboutmultimodal medications, andhaveclosefollowup(weeklywsurgeon)requiredfornewprescriptiontodecreaseopioidmisuseanddiversion",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 3,
+      "question_text": "Dysrhythmia: HR suddenly increases from 90 to 160 and BP falls from 130/70 to 80/50. How proceed? Explain.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 4,
+      "question_text": "Intra-operative Hypotension: The tourniquet on her left lower extremity is now released after 90 minutes of inflation.",
+      "answer_text": "Phenytoin(20mg/kg) isnot myfirst linebecauseof possiblehypotension, cardiacarrhythmias, andcardiacdepression, especiallyif giventooquickly.5) Concernsfor solutediuresis, impairedwoundhealing,6) DDx: PE, MI, arrhythmia, pain, bleeding. Synchronizedcardioversion100Jbiphasic.\nAdditional Topics1) Congenital heart diseaseYes, insist onIVinduction. ShehasaL\u2192Rshunt, sothehemodynamicgoalstoprevent worseningof thisshunt aretoeither maintain/decreaseSVRandtoavoidreductionsinPVR(hyperoxia, hypocarbia), asbothof thesecanleadtoincreasedL\u2192Rshunting. (Thinkof it asyouaretakingstepstoprevent worseningof thecurrent shunt,rather thantryingtochangedirectionalityof theshunt).\u25cf ASD/VSD\u25cb L->Rshunt\u25cb Anestgoals:\u25a0 Don'tincreaseL->Rshunt:decreasedPVR,increasedSVR\u25a0 Don'tcausehypoxicshuntphenomenon(reversalofshunttoR->L):decreasedSVR,increasedPVR\u25a0 Ifptrapidlydesats,cyanotic:increaseSVR(phenylephrine+resumespontventilation)\u25a0 Overallgoals:maintainSVR,maintainPVR(normaloxygenation,normocarbia,normalpH),maintainnormovolemia,de-airIV",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 5,
+      "question_text": "Post-operative Ventilation: At end of surgery, patient breathes spontaneously with a rate of 30 with an end-tidal CO2 of",
+      "answer_text": "DDxincludessepsis, PE, pneumonia, aspiration, woundinfection, ACS. ABGshowsametabolicacidosiswithsomedegreeof respiratorycompensation, soit islikelyalacticacidosisinthisscenariowithend-organhypoperfusion. Wouldget aCXR, full labsincludingtroponinandbloodcultures, start empiricbroad-spectrumAbx, get additionalaccess/central line, beginpressors, administer morefluid, transfer totheICU. CVPmonitoringcanhelpasatrendfor volumeresuscitation. TTE/TEEcanhelpwith\nassessingvolumestatus, wall motionabnormalities, evaluationfor other pathologylikeaPE.\nAdditional Topics1) Regional anesthesia- obstetricsTest doseandaspirateintheepidural spacebeforegivingmeds. Txfor LAST: call forhelp, administer midazolam2-4mgbolusestosuppresstheseizure, administer intralipid20%emulsion1.5mL/kgbolusfollowedbyinfusionof 0.25mL/kg/min. I wouldintubatetosecuretheairwayfor thispatient havingaseizureif shedidnot readilyregainmentalstatusandremainedapneic. Withchest compressionsinthispregnant patient, wouldneedtodisplacetheuterusfromtheIVC, soput patient inleft uterinedisplacement.Epinephrinedose1mcg/kgfor cardiacarrest 2/2LAST. WithROSCandfetalbradycardia, wouldwant tofirst attempt toincreasepatient\u2019sBPtoencouragegreateruteroplacental perfusionwhichcanhelpbringbaby\u2019sHRbackup. If thefetal bradycardiapersisted, thenI woulddiscusstheurgencyof goingbacktotheORfor aC/Swiththispatient.2) CarotidsurgeryWithEEGmonitoringintraoperatively, I wouldnot want torunvolatile>0.5MAC. Also, Iwouldwant toensureastabledepthof anesthesiaandwouldwant toensureadequateMAP. Withslowingof theEEG, thisindicateshypoperfusion, soI wouldraisetheMAP. Iwouldalsoensurethepatient isnot hypovolemic, anemic, hypoxic, hypercarbic,acidemic. If thisdoesnot fixtheslowedEEGwave, I wouldaskthesurgeontoplaceashunt. Withcontinuedworseninginspiteof theshunt, I wouldaskthesurgeontoensurethat theshunt isfunctioningadequately. I wouldalsoensurethepatient isnothypovolemic, anemic, hypoxic, hypercarbic, acidemic. I wouldconsider administeringmedstolower CMRO2(eg, barbiturates, benzos, propofol, etomidate), thoughtherehasbeennoevidencesupportinganybenefitsfromtheuseof anestheticagents(e.g.,barbiturates, benzos, propofol, etc) toobtainburst suppressioninpatientsundergoingcerebral aneurysmsurgery.3) CarboxyhemoglobinI wouldlikeanABG, neuroexam, full set of labs, co-oximetryreading.CarboxyhemoglobincausesfalselyelevatedSpO2readingonpulseoxduetosimilarabsorptionwavelengthsasoxyhemoglobin. PaO2isnormal sincethisreflectsoxygenthat isdissolvedinblood, whiletheamount of O2that isboundtohemoglobinisdrasticallyreduced(2/2gettingout-competedfor hemoglobinbindingspotsbythecarbonmonoxide). Carbonmonoxidehasamuchgreater affinityfor bindingtohemoglobinthandoesoxygen(240xmore) andwill causealeft-shift intheoxygen-hemoglobindissociationcurve. Thediagnosiscanbemadebyusingaco-oximeter, whichcanquantifythecarbonmonoxidelevel intheblood.Signs/symptomsof COpoisoning: headache, malaise, nausea, dizziness, alteredmentalstatus. Treatment for carboxyhemoglobinis100%FiO2bynonrebreather mask,endotracheal intubationif patient hasseverelyalteredmental statusor iscomatose.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 6,
+      "question_text": "Nausea and Vomiting: During surgery patient received 1.25 mg of droperidol, yet after extubation she develops nausea",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 7,
+      "question_text": "Pain: How will you manage severe pain in knee? PCA with morphine exacerbates nausea and vomiting. What other",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 8,
+      "question_text": "Post-op Jaundice: 3 days post-op the patient has a bilirubin of 7 mg/di and appears jaundiced. You are called due to",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 9,
+      "question_text": "Sepsis: On the fourth post-op day the patient's temperature is 39\u00b0C and her BP falls to 75/50 over 2 hours. She is",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 10,
+      "question_text": "Regional anesthesia - obstetrics: A healthy 28-year-old woman is rece1vmg an epidural anesthetic for an elective",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 1,
+      "question_index": 11,
+      "question_text": "Carboxyhemoglobin: A 65-year-old woman with a long history of depression presents to the OR for repair of a",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 1,
+      "question_text": "Diabetes: It is 7:00 AM. Since last night she has been receiving D5 1/4 saline at 65 ml/hr and received 5 units regular",
+      "answer_text": "Exercisetolerance>4METS. If unabletodoso, wouldorder astressecho. If unabletoexerciseand/or limitedmobility, wouldorder apharmacologictest (e.g., dobutamine)rather thananexercisestressecho.PVCsindicatepossiblyinfarctedmyocardiumand/or electrolyteabnormality(suchashisK3.1). TheRwaveheight normallybecomesprogressivelytaller fromleadsV1throughV6. InV1toV3, thereisanRwaveof lowamplitudeandanSwavethat islarger (R/S<1); betweenleadsV3toV4, thereisatransitiontoanRwavethat hasagreateramplitudethantheSwave(R/S>1). WhentheRwaveheight doesnot becomeprogressivelytaller fromleadsV1toV3or V4, or evenremainsat lowamplitudeacrosstheentireprecordium, slowor poor Rwaveprogression(PRWP) ispresent (waveform4). Several setsof criteriahavebeenproposedtodefinePRWPmoreprecisely[3].Therearemanyetiologiesfor poor Rwaveprogression:\u25cf Leadplacement\u25cf Anteroseptal or anterior wall myocardial infarction\u25cf Left ventricular hypertrophy\u25cf Left anterior fascicular block\u25cf Left bundlebranchblock\u25cf Infiltrativeor dilatedcardiomyopathy\u25cf Wolff-Parkinson-Whitepatternsduetoright-sidedor antero-septal bypasstracts\u25cf Chroniclungdisease\u25cf Physiologiclatetransitionor clockwiserotationof theheartACEi ispreferredanti-HTNagent inthispatient withCADbecausetheACEi/ARBclassof anti-HTNagentsreducesmyocardial remodelingandarecardioprotective.Furthermore, ACEi/ARBsarealsofirst-lineanti-HTNagent inpatientswithDMbecausetheyslowthedevelopment of diabeticnephropathy(sotheyarerenal protective). I wouldavoidgivingthispatient hisenalapril onthedayof surgery2/2increasedriskofhypotensionwithinductionandduringtheintraoperativecourse. I wouldnot start thispatient onabeta-blocker duringtheperioperativeperiod, asit wouldincreasetheriskofhypotension, stroke, andall-causemortality.\nBetablockers(WhotogiveperiopBBinnon-cardiacsurgery):a) Goal:HR<65b) Continueinptsalreadytakingitc) Startatleast4weekspreopfor:hypertension, ratecontrol foratrial fibrillation,control ofangina, heartfailure, orpriorMIi) WeightherisksandbenefitsoftheBBperioperatively(increasedriskofstrokeandhypotension)ii) Don'tstartprophylacticallyinptsbasedonRCRI2) Evaluateof hisDMbycheckingthehemoglobinA1C(for adequacyof glucosemanagement over thecourseof 3months), sequelaeof diabetes(peripheral neuropathy,glycosylationof theatlantoaxial joint whichlimitsneckROM, andautonomicdysfunctionasmanifestedbyorthostatichypotension, restingtachycardia, lackof HRvariability,\nsilent MI, postprandial bloatingor earlysatietyasagaugefor gastroparesis). Risksofhyperglycemia: solutediuresis, impairedwoundhealing, increasedinfections, riskforDKA/HHNHstate. I wouldtarget abloodglucoselevel of 110-180. Acutehyperglycemiawouldcarrytherisksasstatedabove, whilechronichyperglycemiawill leadtothesequelaeof diabeteslikeautonomicdysfunctionandglycosylationof theatlanto-occipitaljoint.\nDayof surgerymanagement of antidiabeticmedicationsfor diabeticpatients:\u25cf NIDDMpatients\u25cb Continueusual routineof oral hypoglycemicmedicationsuntil themorningof surgery\u25cb Onthemorningof surgery, holdoral hypoglycemicandnon-insulinmeds\u25cb CheckFSGsq2h\u25cf DM1patientsor insulin-dependent type2DMpatients, short procedures(<2hrs)\u25cb Continuewithsubcutaneousinsulinperioperatively(insteadof aninsulininfusion) for ashort surgery\u25cb For early-morningcases, delaytakingthemorningdoseof therapid-actinginsulinuntil after thesurgeryandbeforeeating\u25a0 Continuethebasal rateof insulinat thesamedose, but canconsider droppingit by10-25%if thepatient hasaglucosethat\u2019slow-normal or hasah/ohypoglycemia\u25cb For late-daycases, giveareduceddoseof anintermediate/long-actinginsulin(\u00bdto\u2154thedose) inthemorningandstart adextroseinfusiontoavoidthemetabolicchangesof starvation. Checkfrequent ABGs/FSGs\u25cb If onaninsulininfusion, continueat therate\u25cf Type1DMpatientsor insulin-dependent type2DMpatients, longprocedures/complexprocedures\u25cb IVinfusion:separateinsulin(1to2units/hourregularinsulin)andglucose(5to10gofglucose/hour)solutionsstartedearlyinthemorningpriortosurgerytoallowtimetoachieveglycemiccontrol,wq1hglucosechecks\u25a0 insulininfusionsaremorereadilytitratedbecausethehalf-lifeofIVinsulinisshort(ie,5to10minutes),allowingformorepreciseglucosecontrol.\u25cf Postop(forallpatients):\u25cb Startslidingscaleandoncepatienthasresumedeatingrestartonhomeregimen(oralagents,oralagentsplusinsulin,orbasal-bolusinsulin\u25cb Exception\u25a0 Metformin:notrestartedinpatientswithrenalinsufficiency,significanthepaticimpairment,orcongestiveheartfailure.",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 2,
+      "question_text": "Renal Status: Her BUN is 48 mg/di and her creatinine is 2.5 mg/di. They were both normal 6 days ago. What is/are",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 3,
+      "question_text": "Digoxin: Should digoxin be discontinued before operation? Why/why not? What is its purpose in this patient? What",
+      "answer_text": "Hypokalemiacanresult inEKGchanges(flatteningof Twaves, Uwaves) andarrhythmias(PVCs, PACs, junctional rhythms), aswell asmuscleweakness. I wouldincreasetheKbyadministeringKCl andconsider switchingfromHCTZtoapotassium-sparingdiuretic(e.g., amiloridespironolactone). Other waysthat KisreducedintheOR: administrationof insulin, albuterol, diuretics, alkalosis(Kshiftsintracellularly).4) ASA3: severesystemicdisease. DM2requiringinsulin, sothinkof thesequelaeofdiabetes. He\u2019sobese, soconsider possibilityof difficult airwaymanagement. HispreexistingCADputshimat higher riskfor aperioperativecardiacevent. Assuminganotherwiseuneventful andsmoothoperativecourse, I wouldnot expect anICUstaybutwouldlikelywant abedinastep-downunit for him. I wouldexplainthistothefamilybystatingthat hismultiplemedical comorbiditiesmeansthat hewouldneedacloser level ofmonitoringintheimmediatepostoperativephase.\nIntraoperativeManagement1) GA: controlledairway, morehemodynamiclability. Regional: avoidinstrumentingairway,canfail mid-procedurewhichwouldnecessitateconversiontoGA, patient canremainawake. I wouldrecommendGAgiventhepotential for fluid/volumeshiftswhichcancauseairwayedemaandachallengingairwaymanagement under suboptimalconditionsif aregional anestheticweretobeconvertedtoGAinthemiddleof theprocedure. Epidural issafeaslongastheIVheparinisadministeredmorethan1hourafter theneuraxial placement.2) Yes, arterial linewouldbeplacedfor closer hemodynamicmonitoringinthispatient withCAD, aswell asfor ABGstocheckelectrolytes, glucose, andHct. If Allen\u2019stest revealscompromisedulnar flow, thenI wouldconsider placingthearterial lineintheaxillaryarteryor femoral artery(whileAllen\u2019stest hasquestionablepredictivevalue, choosinganother sitefor arterial accessavoidspotential harmof placingthelineinapatient withquestionableulnar collateral flow). I wouldnot placeaPAcatheter (risks>benefits) andwouldlikelynot placeacentral lineeither, assumingI couldget twolarge-boreperipheralIVs. Most symptomsof hypoglycemia(nausea, vomiting, alteredmental status) aremaskedbyGA, sofrequent bloodgasestoassessfor glucoselevel arenecessarytoavoidhypoglycemia.3) DDx: LASTvshighspinal. I wouldlookat themonitors, EKG, givefluidsandpressorsasneededtotemporizetheBP, support ventilationandconsider intubatingif thepatient isapneic.4) DDx: pain, inadequatedepthof anesthesia, sympatheticstimulationfromDL/intubation,Afib, Aflutter, other arrhythmia. Etiology: sympatheticstimulation, electrolyteabnormality,pain, hypoxemia, hypercarbia. Thetachycardiaisconcerninginthispatient withCAD,asit wouldleadtodecreasedcoronaryperfusion, increasedmyocardial O2consumption, andincreasetheriskof ischemia. Assuminganormal BP, I wouldslowtheHRbytitratinginesmolol.5) Protaminehypersensitivityreactionfromaninfusionthat istoofast isduetohistaminerelease(hypotension, bronchospasm, pulmonaryvasoconstriction/HTN). Anaphylaxisto\nprotamineoccursinpatientswithaseafoodallergy(fishallergy), h/ovasectomy, andallergytoor historyof takingNPHinsulin, asprotamineisderivedfromsalmonsperm.Treatment: fluidandvasopressorsasneededtotemporizeBP. Prevention: slowerinfusionof protamine.6) TheSpO286%isconcerningasit wouldnot allowfor extubation, andthehypoxemiacanalsoaffect myocardial O2supplyinthispatient withCAD. DDx: mainstemintubation,aspiration, atelectasis, mucusplug, bronchospasm, pulmonaryedema, ARDS, TRALI.Usual extubationcriteria. If I amassumingthat delayedemergenceis2/2opioideffect,thenI couldconsider waitingfor theopioideffect todissipatebeforeextubating(either intheORor ICU), or I couldconsider titratinginsmall dosesof naloxone20-40mcgat atime. Theriskof givingnaloxoneisthecompletereversal of opioideffect, leadingtopainthat cancausehypertensionandtachycardiainapatient withCAD.\nAdditional Topics1) Epidural after AAAsurgeryYes, placeepidural for postopanalgesia. Placement at lowthoraciclevel (~T8-10) andtest theepidural after it isplacedbeforestartinganyinfusionsthroughit. I wouldnotactivatetheepidural withlocal anestheticintraoperatively2/2largehemodynamicswingsthat canoccur withtheAAArepair, but I couldconsider administeringopioidthroughtheepidural intraoperatively.2) Pacemaker malfunctionCoughingledtoadislodgedtransvenousPPMandnowthepatient isinCHB. Tx:transcutaneouspacing.3) RadiologyanaphylaxisCheckvitalsandEKGfor rhythm. DDx: anaphylaxis, ACS, PE, hemorrhage. Wouldwanttoknowwhat medspatient hadgotten, medical history, allergyhistory. Txforanaphylaxis: epinephrine100mcg. If patient isapneic, support ventilationandconsiderintubating.\nMiscellaneousstuff that I can\u2019t remember\u25cf Suxshouldbedosedontotal bodyweight (morepseudocholinesteraseinobesepts);nondepolarizingNMBDsbasedonideal bodyweight; propofol inductiondosebasedonleanbodyweight but maintenancebasedontotal bodyweight\u25cf Placeanairwayexchangecatheter (AEC) whenextubatingaknownchallengingairway\u25cf Classificationof aorticstenosisseverity:\u25cb Normal: AVA2.5-4.0cm2\u25cb Mild: AVA1.5-2.0cm2; meangradient <20mmHg; peakvelocity2-2.9m/s\u25cb Moderate: AVA1.0-1.5cm2; meangradient 20-39mmHg; peakvelocity3-3.9m/s\u25cb Severe: AVA0.7-1.0cm2; meangradient 40-49mmHg; peakvelocity>4m/s\u25cb Critical: AVA<0.7cm2; meangradient >50mmHg\u25cf PAcatheters\u25cb Commonindications:\u25a0 Unexplainedor unknownvolumestatusinshock\u25a0 Severecardiogenicshock(eg, acutevalvular disease, suspectedpericardial tamponade)\u25a0 Suspectedor knownpulmonaryarteryhypertension\u25a0 Severeunderlyingcardiopulmonarydisease(eg, congenital heartdisease, left-to-right shunt, severevalvular disease, pulmonaryhypertension) whoareundergoingcorrectiveor other surgery\u25cb Highriskinpatientswith:\u25a0 pHTNandEisenmenger\u2019ssyndrome(2/2riskfor PArupture)\u25a0 left or right bundlebranchblock(2/2riskfor completeheart block)\u25a0 prostheticor stenotictricuspidor pulmonicvalve(2/2difficultywithadvancement)\u25a0 latexallergy(most PAcathetersaremadeof latex)\u25a0 right atrial or ventricular masses(2/2difficultywithadvancement)\u25cb Complicationsassociatedwithplacement:\u25a0 PArupture\u25a0 myocardial perforation\u25a0 tricuspid/pulmonicvalvedamage/rupture\u25a0 arrhythmias/completeheart block\u25cf Therapeutichypothermia\u25cb Mildhypothermia(32-34degC) or targetedtemperaturecontrol (at or lessthan36degC) decreasesmortalityandimprovesneurologicoutcomesinpatientswhoremaininacomafollowingROSC, either inanout-of-hospital cardiacarrest2/2pulselessVTach/VFib/PEAor anin-hospital cardiacarrest 2/2anyrhythm\u25cb Avoidhyperthermia; shouldstart thecoolingprocessfor therapeutichypothermiawithin6hoursof thecardiacarrest, keepat thistemperature(monitor withacorefor 12-24hoursbeforebeginningaslowprocessof rewarmingthepatient\u25cf Celiacplexusblock\u25cb Preganglionicsympatheticnervefibersfromgreater andlesser splanchnicnerves(T5-T12thoracicsympatheticganglia) aswell aspostganglionic\nsympatheticandpreganglionicparasympatheticfibers. It providessensoryinnervationandsympatheticoutflowtostomach, liver, spleen, pancreas, kidneyandGI tract uptosplenicflexure.\u25cb Postsynapticfibersfromceliacplexusinnervateall abdominal visceraexceptdescendingcolon, sigmoid, rectum, pelvicorgans(uterus, ovaries, prostate)\u25cb Plexusislocatedat thelevel of T12-L2(usuallyL1) andliesanterior toaortaintheretroperitoneal space.\u25cb Most commoncomplicationsareorthostatichypotensionanddiarrhea.\u25cf GBS\u25cb 20-30-40rulefor respiratorymuscleweaknessneedingintubation\u25a0 FVC<20ml/kg\u25a0 NIF<-30cmH2O\u25a0 MEP(maximal expiratorypressure) <40cmH2O\u25cf Esophagectomya) Indication: esophageal ca, anareaofsevereachalasia, esophageal tearb) Sincemanipulationofmediastinal structuresistypicallynecessaryduringesophagectomy, arrhythmiasarecommonLeadsII andV5ontheelectrocardiogram(ECG)arecontinuouslymonitoredtodetectcardiacarrhythmiasand/orresultantischemia\u25cf LargeboreIV, a-line, CVC)mayalsobeinsertedforfluidandbloodadministration, aswell asforvasoactivedruginfusions, NGtube(criticallyimportanttomaintainnasogastricdecompressionandfacilitateavoidanceofintrathoracicanastomoticleakageafteresophagectomy)\u25cf DetermineifOLVisneeded(VATSvsthoracotomy)\u25cf RSI (highriskforaspiration2/2esophageal cancer)\u25cf Thoracicepidural vsPVBforchesttubeplacement(T5-T7)\u25cf Intraophypotension(IVCcompression, arrythmia)\u25cf Esophageal perforation: emergencyb/crapidlydevelopmediastinitisandsepsis\u25cf Subdural injection\u25cb Nomotor blockade, hypotensioninbetweenspinal andepidural, patchysensoryblock\u25cf FHRvariabilityandtracings\u25cb Category1tracing:\u25a0 Baselinerate: 110to160beatsper minute(beatsper minute[bpm])\u25a0 Moderatebaselinefetal heart rate(FHR) variability(amplitude6to25bpm)\u25a0 Nolateor variabledecelerations\u25a0 Earlydecelerationsmaybepresent or absent\u25a0 Accelerationsmaybepresent or absent\u25cb Category2tracing:\u25a0 Atracingthat isn\u2019t acategory1or 3\u25cb Category3tracing:\n\u25a0 Absent baselinefetal heart rate(FHR) variabilityand(anyof thefollowing): Recurrent latedecelerations, recurrent variabledecelerations,or bradycardiaOR\u25a0 Asinusoidal pattern\u25cf",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 4,
+      "question_text": "Anesthetic Induction: Would induction with fentanyl and propofol be acceptable? Would it be your choice? Why/why",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 5,
+      "question_text": "Post-induction Hypotension: Immediately following intubation, heart rate is 50 bpm and mean arterial pressure 48",
+      "answer_text": "HR44wouldn\u2019t begreat andMAP60isn\u2019t great either; wouldchecktheEKG. WithCHB,wouldbeginpacingthepatient onVVI mode.6) DDx: inadequateprotaminedose(protaminedose: 1mgneutralizes~100uheparinforinitial dosewithamaximumsingledoseof protamineof 50mg; for repeat dosing, give0.5mgprotamineper 100uheparin); drugswap(didn\u2019t giveprotamineat all);hypothermia; coagulopathy; thrombocytopenia; DIC. EvaluatewithanACT, ROTEM,platelet functionassay, CBC, fibrinogen, checktemperature. Treatment optionswill bedictatedbythesepoint-of-caretests(eg, givecryoprecipitatefor lowfibrinogen; giveplateletsfor thrombocytopeniaor impairedplatelet function, etc).Additional Topics1) PediatricsEvaluationwouldincludePMH/PSH; familyhistoryof anestheticproblems; allergies;recent URIs; airwayexam; imagingtohelplocalizewherethepeanut is(eg, isit deepinthetracheobronchial tree, or isit closetotheglotticopeningwhereit maybevisiblewhiledoingaDL?). Pentothal istoolong-actingfor thispotentiallyshort case, soIwouldn\u2019t useit.Aspiration(peanut)a) Pedspreop:PMH/PSH; familyhistoryof anestheticproblems; allergies; recentURIs; airwayexam; imagingtohelplocalizewherethepeanut is(eg, isit deepinthetracheobronchial tree, or isit closetotheglotticopeningwhereit maybevisiblewhiledoingaDL?).\nb) S/x:stridor, hoarseness,aphonia,useofaccessorymusclesofrespiration.Consideracxriftheptisstable(theforeignbodyisoftenradiolucentbutyoumayseeairtrapping\u2192hyperinflation,atelectasis,and/ormediastinalshift)i) Iftheptmayhaveaspiratedapeanutdonotdelaybronchoscopyforacxraspeanutsmayabsorbwaterandbecomeincreasinglyfriablewtimebutalsomayleadtopeanutoil-inducedchemicalirritationoftheairway\u2192atelectasisandcompleteairwayobstruction.ii) Complicationsofforeignbodyaspirationdependonthelocationandtype(organicvsnon-organic,sharpvsdull),andthedurationoftimeithasbeenintheairway. Nutsandcertainvegetablesarehighlyirritatingandproduceachemicalpneumonitis.Thelongeritisintheairwaythemorelikelyarecomplicationssuchasbronchialstenosis,bronchiectasis,pna,lungabscess,tissueerosion\u2026(ifremovedw/in24hrs,complicationrateisverylow)c) Thereisnoevidencethatoutcomesarealteredbydoingcontrolledventilationvsspontaneousventilationandyoucanmodifyyourstrategydependingonthecircumstances(ieevenifyoupreferspontaneousyouwoulddoanRSIiftheptwereactivelyvomiting).d) Induction:applymonitors,haveemergencyequipmentavailableandtheENTsurgeon,arigidbronch.GiventhepotentialfordistalmigrationwithPPV, IwouldperformaninhalationalinductionusingO2andsevoandattempttomaintainspontaneousventilationrecognizingthatthisincreasestheriskofaspirationofgastriccontents.Afterensuringanadequatedepthofanesthesiatopreventcoughing,laryngospasm,orbronchospasm,I wouldobtainIVaccessandhavetheENTsurgeonperformDL,spraythecordswithlidotoreduceriskoflaryngospasmandhavetheENTplacearigidbronchoscope(thenapplythecircuittothebronchoscopeforventilationduringforeignbodyremoval).i) RSIwouldbeusefulinreducingtheriskofaspirationbutmayplacetheptatriskfordistalmigrationoftheforeignbodybutthereisnoevidencethatoutcomesarealteredsoI wouldchoosethemethodthattheENTsurgeonwasmostcomfortableperformingtheprocedurewith.e) Iftheforeignbodybecomesdislodgedand\u2192airwayobstructiontheinterventionsincluding:pushingitdistally, movetheptlateralorprone,andpushtheETTbeyondtheobstruction.2) Molar pregnancyProblems: difficult airway, aspirationrisk, DIC, coagulopathy, hemorrhage,hyperthyroidism. Thesevitalscouldreflect pain/discomfort, compensatedhypovolemia\n(tachyfromthehypovolemiawithsympatheticresponsetokeeptheBPup). WouldmanagebyevaluatingfluidstatusandH/H, administer crystalloid/bloodasneeded. Withchest pain, cough, andtachypnea, DDxincludesACS, PE/AFE, pneumonia, aspiration,asthmaexacerbation, anaphylaxis. Performa12-leadEKG(ACS), get full set of vitals,put on100%FiO2, get anABG, auscultatelungs(PNA, asthma, anaphylaxis), get CXR(aspiration, PNA), lookfor petechial rash(AFE).3) MonitoredanesthesiacareMACwithretrobulbar blockwouldsparethispatient withsignificant pulmonarydiseasefromaGA, soyesthat wouldbeacceptable. Sedationfor blockcouldincludedexmedetomidineinfusionwithsmall boluses(0.5mg) midazolamor remifentanil. Dropinsat DDx: oversedation(elderlypatientsmoresensitivetorespiratorydepressanteffectsof sedationandalsolessresponsivetohypoxemia/hypercarbiafor increasingrespiratorydrive), obstruction, aspiration, nasal cannulanot connected, complicationoftheretrobulbar block(eg, intravascular injectioncausingLAST, intrathecal injectioncausinghighspina\nMOCKORALEXAMSII",
+      "matched": true,
+      "match_reason": "exact exam/session/index"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 6,
+      "question_text": "Anesthetic Maintenance: What inhalation agent will you use, if any? Why? Compare benefits and risks of equipotent",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 7,
+      "question_text": "Perfusion Pressure on CPB: Now successfully on bypass and after 90 minutes, MAP of 35 mmHg noted. Acceptable?",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 8,
+      "question_text": "Heart Block: Upon discontinuation of CPB, the patient has a MAP of 60 mmHg receiving dopamine 7 mcg/kg/minute.",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 9,
+      "question_text": "Bleeding: After successful termination of CPB which lasted 2 hours and 20 minutes and administration of protamine,",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    },
+    {
+      "exam_id": 7,
+      "session_id": 2,
+      "question_index": 10,
+      "question_text": "Molar Pregnancy: A 27-year-old woman has a two week history of lower abdominal pain associated with nausea and",
+      "answer_text": null,
+      "matched": false,
+      "match_reason": "missing answer"
+    }
+  ],
+  "unmatched_answers": []
+}

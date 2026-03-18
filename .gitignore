@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+
+# Caches
+.pytest_cache/
+
+# Logs
+*.log
+crash_log.txt
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Runtime data (keep knowledge_bases tracked)
+data/interviews/
+data/user_feedback/

@@ -1,0 +1,177 @@
+{
+  "name": "Mock Oral Exam",
+  "questions_pdf": "/Users/seeratjaura/Downloads/Mock Oral Exams II.pdf",
+  "answers_pdf": "/Users/seeratjaura/Downloads/Old ABA Exams - Answers and Study Guide.pdf",
+  "session_stems": {
+    "exam1_session2": "SESSION 2 \u2013 35 Minutes (total time)\nA 20-year-old 60 kg, 5'4\" tall primigravida is scheduled for urgent Cesarean delivery at 37 weeks gestation.  She\npresented one hour ago in labor and is pre-eclamptic.  She has received one dose of hydralazine and magnesium\nsulfate.  She admits to frequent heroin use.  The obstetrician has just notified you that late decelerations of FHR are\noccurring.  P 110, BP 170/110 mmHg, R 22, T 37.5o C, Hgb 9.8 gm/dL."
+  },
+  "mappings": [
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Preoperative Evaluation",
+      "section_order": 1,
+      "question_number": 1,
+      "question_order": 1,
+      "question_text": "Pre-eclampsia: What are the anesthetic implications of pre-eclampsia? Why is the fetus at increased risk when pre-eclampsia occurs? Volume status of preeclamptic patient? Is this patient adequately treated? Additional therapy? Endpoint to Rx of BP?",
+      "answer_text": "Anesthetic implications of preeclampsia: Neuro (seizures, stroke), cardiac (HTN leading\nto stroke, MI, CHF, labile BPs intravascular depletion; intravascular depletion leading to\nmorepronounceddropinBPuponinduction), pulm (pulmonary edema, airway edema\nmaking intubation more challenging), GI (elevated LFTs, HELLP syndrome), renal (AKI),\nheme(thrombocytopenia), MSK (patient is on Mg, which can potentiate nondepolarizing\nneuromuscular blockade for case done under GA; avoid NMBDs if possible; Mg does\nNOTpotentiate the effects of succinylcholine), practical (more difficult IV access 2/2\nedema). In preeclampsia, there is abnormal formation of the uterine placental spiral\narterioles, leading to impaired placental bloodflow and increased risk for fetal HR\ndecelerations/impaired perfusion to the fetus. This can lead to IUGR. Volume status of\npreeclamptic patient is intravascularly depleted. The BP goals for a preeclamptic patient\nare for BP < 160/110. BPs greater than 160/110 put mom at high risk of stroke and\nintracranial hemorrhage. However, you wouldn\u2019t want to normalize the BP or drop it too\nlow because this would lead to uteroplacental insufficiency.\nEcclampsia seizures: loading dose of magnesium 4-6 g over 20 minutes followed by an\ninfusion of 2 g/hr. Administer a benzo/antiseizure med, support airway, administer\nanti-HTN meds as needed.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Preoperative Evaluation",
+      "section_order": 1,
+      "question_number": 2,
+      "question_order": 2,
+      "question_text": "FHR - late decelerations: Significance of late decelerations? Other diagnostic tests of fetal distress? Is the next 30 minutes better spent medically treating mother or delivering baby? Why?",
+      "answer_text": "Late decels = uteroplacental insufficiency. Other diagnostic tests of fetal distress include\nfetal scalp HR tracing and fetal scalp pH. Timing of delivery would be discussed with the\nOB;wouldideally have some time to hydrate mom and manage BP better, but if OB is\nsaying that this case needs to go now, then i would not delay the C/S.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Preoperative Evaluation",
+      "section_order": 1,
+      "question_number": 3,
+      "question_order": 3,
+      "question_text": "Heroin use: Last heroin use was 24 hours ago. How will this affect anesthetic mgmt? How will this affect fetus? Affect neonate?",
+      "answer_text": "Heroin use will mean that mom may be prone to withdrawal (increase in HR and BP) and\nmayhavepostoperative pain that is more difficult to treat 2/2 tolerance. She also may be\namoredifficult IV access. The fetus may also develop opioid dependence, and thus after\ndelivery, the neonate may show signs of acute intoxication (apnea/hypopnea, sluggish)\nor withdrawal (irritability, tachycardia, HTN). A neonatologist should be present at the\ntime of delivery to evaluate the neonate.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Preoperative Evaluation",
+      "section_order": 1,
+      "question_number": 4,
+      "question_order": 4,
+      "question_text": "Preanesthetic management: No blood typed and crossed. Would you delay procedure until blood is available? What if antibodies are complicating cross-match? Additional lab tests required? Which? Why? Preop medications? Explain.",
+      "answer_text": "I would discuss the urgency of this C/S with the OB, and I would also ask the patient\nabout any prior h/o transfusions. If she has never been transfused, she is unlikely to\nhave developed major antibodies as a P0. If the blood type was back but antibodies\n(presumably non-major antibodies) were complicating the process, then i would ask the\nOBhowlongwecoulddelaytheC/S,ifatall. If the OB did not believe that we could wait\nany longer for the C/S, then i would proceed with the C/S and administer the\ntype-matched blood without knowing the specific minor antibodies (eg, Duff, Kell, etc)\nuntil the antibody identification process was completed, as the likelihood of a major\nadverse transfusion reaction from these minor antibodies is low. Preop, give sodium\ncitrate, famotidine, metoclopramide. The only lab test that I would want is the platelet\ncount.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Intraoperative Management",
+      "section_order": 2,
+      "question_number": 1,
+      "question_order": 5,
+      "question_text": "Monitoring: Do you need a CVP catheter for procedure? Why/why not? Possible complications that are more likely to occur associated with CVP placement because of her medical history?",
+      "answer_text": "Don\u2019t need a CVP. Given the patient\u2019s intravascular depletion, she may be more likely to\nhave a compressible internal jugular vein that is more readily punctured through the back\nwall. She may also have a higher chance of bleeding/hematoma 2/2 thrombocytopenia\nandimpaired platelet function.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Intraoperative Management",
+      "section_order": 2,
+      "question_number": 2,
+      "question_order": 6,
+      "question_text": "Anesthesia choice - regional vs. general: Is spinal anesthesia an appropriate choice? Why/why not? Epidural better? Benefits vs. risk of general anesthesia in this patient? Explain.",
+      "answer_text": "Spinal is appropriate as long as her platelet count is normal. Epidural would be helpful\nfor managing postoperative pain, which may be more difficult to manage in this patient\nwhoisachronic heroin user.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Intraoperative Management",
+      "section_order": 2,
+      "question_number": 3,
+      "question_order": 7,
+      "question_text": "Induction of general anesthesia: Patient insists on general anesthesia. Assume normal airway. Problems anticipated during induction? How will you treat/avoid? Likelihood of intra-op awareness? Can you avoid? How?",
+      "answer_text": "Anticipated problems on induction: aspiration risk (pregnancy), difficult airway\n(pregnancy, preeclampsia), rapid desaturation (reduced FRC, higher O2 consumption),\nmorelabile BP prone to dropping significantly with induction (intravascular depletion from\npoorly controlled HTN). Pretreatment meds for aspiration risk, have difficult airway\nequipment in room, elevated HOB to reduce aspiration risk, preoxygenate well, use\netomidate for induction and have vasopressors readily available, pre-induction arterial\nline can be considered if time permits. Higher likelihood of intraoperative awareness in\nobstetrical surgery, but can never guarantee with absolute certainty that this patient\nwon\u2019t have it. Can take steps to reduce the risk of intraoperative awareness by using a\nBIS monitor, administering midazolam after delivery, paying close attention to the\nmonitor for signs of tachycardia/HTN suggestive of light anesthesia, don\u2019t use a\nlong-acting paralytic agent so that I could look for patient movement as another sign of\nlight anesthesia.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Intraoperative Management",
+      "section_order": 2,
+      "question_number": 4,
+      "question_order": 8,
+      "question_text": "Severe post-induction hypertension: Following intubation, BP 240/140 mmHg. Possible adverse consequences to mother, fetus? How treat?",
+      "answer_text": "Severe HTN can lead to stroke, intracranial hemorrhage, and MI in mom, leading to\nreduced CO which would decrease perfusion to the placenta, which can lead to\ninsufficient fetal perfusion. Treat with deepening the anesthetic, administer a quick-acting\nandshort-acting anti-HTN like clevidipine, nitroglycerin, or esmolol.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Intraoperative Management",
+      "section_order": 2,
+      "question_number": 5,
+      "question_order": 9,
+      "question_text": "Neonatal resuscitation: BP controlled, mother stable. Colleague relieves you to care for neonate. Apgar 2 with thick meconium. How will you proceed? Will you give naloxone? Why/why not?",
+      "answer_text": "Apgar 2 with thick meconium \u2192 assess respiratory effort and HR. If apneic/gasping with\nHR<100,initiate PPV (mask ventilation) at a rate of 40-60 breaths/min or CPAP and\nmonitor with SpO2 and EKG. If the HR is NOT increasing, evaluate for adequate PPV\nandseal, suction nose/mouth, consider intubating. If the HR <60, intubate the neonate. If\nthe HR increases >100, can stop PPV and switch to supplemental O2. If the HR\nincreases but remains <100, ensure adequate chest rise with PPV.\nNeonatal resuscitation algorithm - 2010 guidelines\nAfter delivery of a neonate with suspected meconium aspiration syndrome, do NOT\nperform vigorous suctioning. The care for these neonates should follow the same\ngeneral principles for further intervention (eg, intubation), which are based on\ninadequate respiratory effort (gasping, labored breathing, poor oxygenation) or HR (<100\nbeats/min). The management of meconium aspiration syndrome is largely supportive:\nmaintenance of adequate oxygenation and ventilation; maintenance of adequate BP and\nperfusion; correction of metabolic/glucose abnormalities; empiric antibiotic therapy;\nminimal handling of the infant to avoid agitation, which exacerbates persistent pulmonary\nhypertension of the newborn (PPHN) if present. For newborns with MAS causing severe\nrespiratory compromise with PPHN, they may need mechanical ventilation,\nhigh-frequency ventilation, inhaled nitric oxide, surfactant therapy, and/or ECMO.\nDon\u2019t give naloxone because this would just put the neonate into withdrawal.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Intraoperative Management",
+      "section_order": 2,
+      "question_number": 6,
+      "question_order": 10,
+      "question_text": "Severe hemorrhage: Neonatologist arrives to care for neonate. During extraction of placenta, severe hemorrhage occurs. How proceed? Transfuse? Reason(s). What if cross-match not complete?",
+      "answer_text": "Severe hemorrhage with placental extraction ddx: morbidly adherent placenta (i.e.,\nacreta vs increta vs percreta), atony, blood vessel injury/laceration. Look for bigger IV\naccess, place an arterial line if one isn\u2019t already in place, call for more blood and\nconsider MTP if there\u2019s continued massive hemorrhage, ask the OB about uterine tone\nandconsider administering more oxytocin IV, misoprostol rectally, carboprost IM (avoid\nmethylergonovine 2/2 preeclampsia), consider calling IR for possible uterine artery\nembolization. Transfuse if there is continued bleeding and hemodynamic instability, but if\nthere is hemostasis in the surgical field and the patient remains hemodynamically stable,\nthen i would use an ABG to check for a Hct to guide transfusion decision. If cross-match\nnot complete, would give O-negative blood.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Additional Topics",
+      "section_order": 4,
+      "question_number": 1,
+      "question_order": 11,
+      "question_text": "Posterior fossa craniotomy: A 58-yr-old man is to undergo craniotomy while in the sitting position for a posterior fossa tumor. Is isoflurane the preferred anesthetic for this procedure? Why/why not? Is N O useful in 2 this procedure? Advantages/disadvantages? Is CVP essential? Why/why not? How verify correct placement? Can increase in ICP be prevented? How? Is mannitol more effective than furosemide to reduce ICP? Why/why not? Is there a limit to how low PaCO should be taken? Explain. How will you differentiate brain stem 2 ischemia from venous air embolism? Are there similarities? Explain.",
+      "answer_text": "Avoid using isoflurane due to its slower emergence time, as these patients generally\nhave a neuro exam at the end of the case for which the surgeons would want an\nawake/alert patient prior to extubating. Avoid N2O given the tendency for N2O to migrate\ninto closed air spaces, which can occur once the skull is closed and lead to\npneumocephalus. CVP is essential due to high risk of VAE. Placement confirmed by\nTEE,orseeing biphasic P waves on EKG with wire and then pulling wire back one cm.\nIncreased ICP can be prevented by avoiding N2O and volatile anesthetics, using an\nanesthetic agent that lowers CBF and ICP (eg, propofol), and asking the surgeons to\nplace an EVD at the end of the case to monitor ICP and to potentially drain CSF as\nneeded. Mannitol and furosemide are equally effective osmotic diuretics that also reduce\nthe production of CSF. The PaCO2 should be lowered only as low as PaCO2 25-30\nmmHg,anditseffects on ICP reduction are ephemeral (1-24 hours in duration).\nHyperventilation can be useful for elevated ICP due to cerebral edema, intracranial\nhemorrhage, and tumor, but hyperventilation should be minimized in patients with stroke\nor a traumatic brain injury, as the vasoconstriction induced by hyperventilation may\ncause a decrease in local cerebral perfusion, resulting in worsening neurologic injury.\nCertain brainstem strokes (lateral medullary syndrome 2/2 ischemia to posterior inferior\ncerebellar artery->ischemia lateral medulla oblongata in the brainstem) share similarities\nto VAE: they cause autonomic dysfunction causing tachycardia, labile blood\npressure, intermittent bradycardia. Differentiate brainstem ischemia (changes in\nevoked potentials, impaired brainstem reflexes (eg, cough and gag reflexes,\nvestibulo-oculocephalic reflex, pupillary reactivity, corneal reflex)) from venous air\nembolus (see air on a TEE, hear turbulent flow with a precordial doppler, hemodynamic\ncompromise with a drop in BP and EtCO2).",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Additional Topics",
+      "section_order": 4,
+      "question_number": 2,
+      "question_order": 12,
+      "question_text": "Pain management: A 68-year-old woman is referred to you with acute herpes zoster and pain involving the T6 \u2013 T7 dermatomes on the right. She has COPD requiring nasal oxygen. How does her COPD affect your therapeutic options? Explain. What therapy would you offer her? Role of antiviral medications? Does your Rx plan differ if the herpes zoster is chronic vs. acute? Explain.",
+      "answer_text": "COPDmakesyoumorehesitanttoprescribeasystemicmedication that could affect\nrespiratory drive (eg, opiates). Antiviral therapy (eg, acyclovir, valacyclovir, famciclovir) is\noffered if the patient presents within 72 hours of the development of symptoms. If\nsymptomsbegan>72hoursagobutnewvesicles/lesions are still appearing, then\nantivirals are also offered to that patient population. If symptoms began >72 hours ago\nandnomorenewlesionsareappearing,there\u2019s unknown benefit to beginning antivirals,\nso wouldn\u2019t recommend it.\nThis patient has acute herpes zoster (reactivation of latent varicella-zoster virus (VZV)\nalong a sensory ganglion) with pain and rash adhering to a dermatomal pattern.\nAnalgesic options include NSAIDs, acetaminophen, tramadol, opioids. For patients with\nuncomplicated acute herpes zoster (i.e., not a chronic pain syndrome that continues\nafter the resolution of the rash and vesicles), there is NO role for adjuvant meds like\ngabapentin, TCAs, or glucocorticoids; no good evidence that backs the use of these\nmedstoprevent postherpetic neuralgia (PHN).\nFor patients with complicated zoster (i.e., ocular, otic, or neurologic manifestations), IV\nantivirals are used and glucocorticoids may have a role.\nherpeszosterpainsyndrome(postherpeticneuralgia)-painthatpersists>4monthsinthesame\ndistribution as a preceding documented episode of acute herpes zoster, even after resolution of\ntheassociated rash/vesicles.\na) burning,sharp,orstabbing paininthoracic,cervical, and trigeminal nerves are most\ncommonlyaffected;allodynia(painfromatypicallynon-painfulstimulus)\nb) Initial treatment for moderate to severe pain (acute event): gabapentin or pregabalin\n(avoid in pts w CKD->use TCAs)\ni)      TCAs(amitriptyline) - anticholinergic side effect profile (eg, sedation, dry\nmouth),sousewithcautionintheelderly\nii)      Othertreatmentoptions:topicalcapsaicin\n(1) Intrathecal glucocorticoid injection if pain intractable\n(2) Noothermeds,cryotherapy,TENS,topicallidocaine,orsurgeryhave\nenoughevidence",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    },
+    {
+      "exam_id": 3,
+      "session_id": 2,
+      "section_name": "Additional Topics",
+      "section_order": 4,
+      "question_number": 3,
+      "question_order": 13,
+      "question_text": "AICD: A 60-year-old patient with an AICD (automatic implantable cardiac defibrillator) in place presents for exploratory laparotomy for suspected acute appendicitis. Anesthetic implications? Should the device be disarmed? Why/why not? Should succinylcholine be avoided? If so, why? How will you proceed? Rationale.",
+      "answer_text": "Succinylcholine fasciculations may be interpreted as pacing spikes, leading to inhibition\nof the pacing function of an AICD, so prior to giving sux, you should reprogram the AICD\nto asynchronous mode for a pacer-dependent person (putting a magnet on a patient with\nanAICDonlydeactivates the shocking function). However, the AICD\u2019s antiarrhythmia\ncapabilities usually are very sophisticated and precise, and so inappropriate AICD\ndischarge is unlikely.",
+      "matched": true,
+      "match_reason": "exact exam/session/section/question_number"
+    }
+  ],
+  "unmatched_answers": [
+    {
+      "exam_id": 4,
+      "session_id": 1,
+      "section_name": "Intraoperative Management",
+      "section_order": 2,
+      "question_number": 1,
+      "answer_text": "Regional would be great: avoid the hemodynamic lability with GA, can use awake mental\nstatus for determining adequacy of cerebral perfusion, she\u2019s not a tough airway, so if she",
+      "source": "/Users/seeratjaura/Downloads/Old ABA Exams - Answers and Study Guide.pdf"
+    }
+  ]
+}
