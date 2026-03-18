@@ -11,7 +11,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        os: [windows-latest, macos-latest]
+        os: [windows-latest, macos-13]
 
     steps:
       - name: Checkout code
@@ -23,7 +23,18 @@ jobs:
           python-version: '3.11'
           cache: pip
 
-      - name: Install dependencies
+      - name: Install dependencies (macOS pinned NumPy)
+        if: runner.os == 'macOS'
+        env:
+          MACOSX_DEPLOYMENT_TARGET: "13.0"
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install numpy==1.26.4
+          pip install pyinstaller
+
+      - name: Install dependencies (Windows)
+        if: runner.os == 'Windows'
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
@@ -31,6 +42,8 @@ jobs:
 
       - name: Build with PyInstaller (onefile)
         shell: bash
+        env:
+          MACOSX_DEPLOYMENT_TARGET: "13.0"
         run: |
           if [[ "$RUNNER_OS" == "Windows" ]]; then
             sep=";"
