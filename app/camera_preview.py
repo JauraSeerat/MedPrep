@@ -58,11 +58,17 @@ def main():
     currently_away = False
 
     try:
+        consecutive_failures = 0
         while _running:
             ok, frame = cap.read()
             if not ok:
+                consecutive_failures += 1
+                if consecutive_failures >= 50:
+                    print("camera read failed")
+                    return 1
                 time.sleep(0.1)
                 continue
+            consecutive_failures = 0
 
             gaze_direction = "center"
             show_warning = False

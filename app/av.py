@@ -313,8 +313,8 @@ class InterviewAV:
     def _transcribe_with_faster_whisper(self, wav_path: Path) -> tuple[bool, str]:
         try:
             from faster_whisper import WhisperModel
-        except Exception:
-            return False, "Missing dependency: `faster-whisper` (pip install faster-whisper)."
+        except Exception as e:
+            return False, f"Missing dependency: `faster-whisper` ({type(e).__name__}: {e})."
 
         try:
             model = WhisperModel("tiny", device="cpu", compute_type="int8")
