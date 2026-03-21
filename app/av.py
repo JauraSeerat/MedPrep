@@ -311,14 +311,46 @@ class InterviewAV:
         self._stop_preview_capture()
 
     def _transcribe_with_faster_whisper(self, wav_path: Path) -> tuple[bool, str]:
+        import types
+
+        # Avoid importing the native PyAV extension, which can be compiled against
+        # a newer macOS SDK and fail to load on older systems.
+        if "av" not in sys.modules:
+            av_stub = types.ModuleType("av")
+
+            def _unavailable(*_args, **_kwargs):
+                raise ImportError("PyAV disabled for bundled transcription.")
+
+            av_stub.open = _unavailable
+            sys.modules["av"] = av_stub
+
         try:
             from faster_whisper import WhisperModel
         except Exception as e:
             return False, f"Missing dependency: `faster-whisper` ({type(e).__name__}: {e})."
 
         try:
+            import soundfile as sf
+        except Exception as e:
+            return False, f"Missing dependency: `soundfile` ({type(e).__name__}: {e})."
+
+        try:
+            audio, sr = sf.read(str(wav_path), dtype="float32")
+            if audio.ndim > 1:
+                audio = audio.mean(axis=1)
+            if sr != 16000:
+                try:
+                    from scipy.signal import resample_poly
+
+                    audio = resample_poly(audio, 16000, sr).astype("float32", copy=False)
+                except Exception as e:
+                    return False, f"Audio resample error: {e}"
+        except Exception as e:
+            return False, f"Audio load error: {e}"
+
+        try:
             model = WhisperModel("tiny", device="cpu", compute_type="int8")
-            segments, _info = model.transcribe(str(wav_path), language="en")
+            segments, _info = model.transcribe(audio, language="en")
             text = " ".join(seg.text.strip() for seg in segments if seg.text.strip()).strip()
             return True, text
         except Exception as e:
