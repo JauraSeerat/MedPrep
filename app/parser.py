@@ -247,7 +247,9 @@ def extract_session_stems(text: str, source_path: str) -> Dict[str, str]:
     current_exam = detect_exam_id_from_filename(source_path) or 1
     current_session = 1
     capture = False
+    saw_session_header = False
     bucket: List[str] = []
+    pre_section_bucket: List[str] = []
 
     def flush() -> None:
         nonlocal bucket
@@ -262,30 +264,52 @@ def extract_session_stems(text: str, source_path: str) -> Dict[str, str]:
     for line in lines:
         low = _normalize(line)
 
-        exam_match = re.search(r"sample oral examination\s*(\d+)", low)
-        if exam_match:
+        exam_id = _detect_exam_from_line(low)
+        if exam_id:
             flush()
-            current_exam = int(exam_match.group(1))
+            current_exam = exam_id
             capture = False
+            saw_session_header = False
+            pre_section_bucket = []
             continue
 
-        session_match = re.search(r"session\s*(\d+)\s*[-–]\s*\d+\s*minutes", low)
+        session_match = re.search(
+            r"\bsession\s*(\d+)\b(?:\s*[-–—]\s*\d+\s*min(?:ute)?s?\b.*|\b.*total time\b.*)?",
+            low,
+        )
         if session_match:
             flush()
             current_session = int(session_match.group(1))
             capture = True
+            saw_session_header = True
             bucket = [line.strip()]
+            pre_section_bucket = []
             continue
 
         if _parse_section_header(low):
-            flush()
+            if capture:
+                flush()
+            else:
+                if pre_section_bucket:
+                    key = f"exam{current_exam}_session{current_session}"
+                    joined = "\n".join(pre_section_bucket).strip()
+                    if joined and key not in stems:
+                        stems[key] = joined
+                pre_section_bucket = []
             capture = False
             continue
 
         if capture:
             bucket.append(line.strip())
+        elif not saw_session_header:
+            pre_section_bucket.append(line.strip())
 
     flush()
+    if not stems and pre_section_bucket:
+        key = f"exam{current_exam}_session{current_session}"
+        joined = "\n".join(pre_section_bucket).strip()
+        if joined:
+            stems[key] = joined
     return stems
 
 
